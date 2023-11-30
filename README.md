@@ -1,14 +1,14 @@
  GliomaGEM: Glioma metabolic modelling for repurposing of single and combination drugs.
 
 # Data: expression data for TCGA-GBM and TCGA-LGG from three sources
-#CRISPR: DepMap 22Q1 CRISPR screen
-#Primary_target_databases: Three drug-target databases (DrugBank,  PROMISCUOUS, Drug Repurposing Hub)
-#Primary_target_databases/Orphandrug_GlialTumor.csv : Investigational anti-glioma drugs downloaded for OrhanDrug
-#Primary_target_databases/Approved_anti_brain_cancers.csv
-#Supplementary File 2.xlsx: Literature data for gene KO, drug response and clinical trials
+* CRISPR: DepMap 22Q1 CRISPR screen
+* Primary_target_databases: Three drug-target databases (DrugBank,  PROMISCUOUS, Drug Repurposing Hub)
+* Primary_target_databases/Orphandrug_GlialTumor.csv : Investigational anti-glioma drugs downloaded for OrhanDrug
+* Primary_target_databases/Approved_anti_brain_cancers.csv
+* Supplementary File 2.xlsx: Literature data for gene KO, drug response and clinical trials
 
-#Sample_models/Subtypes_Models_w_Transcripts: Built sample models for the three glioma subtypes
-#Concensus_models : Concensus models for the three glioma subtypes and the control model
+* Sample_models/Subtypes_Models_w_Transcripts: Built sample models for the three glioma subtypes
+* Concensus_models : Concensus models for the three glioma subtypes and the control model
 
 ## Data preprocessing ##
 ## Download the complete metadata for TCGA-GBM and TCGA-LGG
