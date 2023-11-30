@@ -1,0 +1,78 @@
+del_rxns_list,AST,GBM,ODG
+2HATVACIDthc,      1000,      1000,         0
+2HATVLACthc, 630.11332,         0,         0
+2M3OVCOAm,         0, 326.79943,         0
+34DHOXMANDte,NA,         0,NA
+34DHPHAMT,         0,         0,         0
+34DHPHAte,-367.28123,         0,-572.31947
+35DHPVSthc,         0,         0,         0
+3HPVSthc,         0, 180.35648,         0
+3ISPVSthc,         0,-982.94741,         0
+3MOXTYROX,NA,         0,NA
+3SALATAi,         0,-870.37364,         0
+41R1H2MAE12BOOX,NA,         0,NA
+41R2A1H12BOOX,         0,         0, 1.8358548
+4HATVACIDthc,         0,         0, 324.47751
+4HATVLACthc, 43.220011,         0,         0
+5HOXINDACTO2OX,         0, 1.9672608,         0
+5HOXINOXDA,NA,         0,NA
+6EPVSthc,         0,         0, 5.9049545
+ACTNMO,NA,  333.0809,NA
+ADEt, 7.3077018, 7.3269924,         0
+ADNt,         0,         0,NA
+ADNtm,NA,         0,NA
+ALOX5,         0,         0,         0
+ALOX52,         0,         0,         0
+APRTO2,         0,         0,         0
+ASPTA,         0,      1000,         0
+ATVACIDOATPtu,         0,         0,      1000
+ATVLACThc,         0,         0, 664.98188
+CAT2p,         0,         0,         0
+CATm,         0,         0,         0
+CATp, 3.3333333,         0,         0
+CBR2, 1.9733719,         0,         0
+CE1918te,NA, 598.74611,NA
+CE2006te,         0, 596.76753,         0
+CYSTA, 8.0565913,         0, 6.5100912
+CYTDt,         0, 8.0778588,     -1000
+DOPAMT,         0,      1000,      1000
+DURAD,         0,      1000,         0
+FOLOAT2tc,NA,NA, 863.71664
+FVStu, 731.09353,         0,         0
+GLCtg,         0, 416.11325,         0
+GLUPRT,         0,         0,         0
+GSNt,NA,         0,         0
+GTHO,         0,         0,     -1000
+GTHOm,-53.152911,         0, 863.71664
+H2CO3D, 731.09353,         0,         0
+H2CO3Dm,         0,-53.293222,         0
+HMR_4422,         0, 416.11325,         0
+HMR_4630,NA,NA,         0
+HMR_6747,NA,         0,NA
+HMR_8476,NA,         0,NA
+HYXNt,         0,         0,NA
+LCYSTAT,         0,         0,         0
+LTA4H, 145.83627, 179.31169,         0
+MAOLNOR,NA,       500,NA
+ORNDC,       500,         0,     -1000
+PHETA1,         0,         0,         0
+PPP9ABCte,NA,         0,NA
+PTVSTtu,     -1000,     -1000,         0
+PVSOATPtu,         0,         0,     -1000
+RE3430C,NA,         0,NA
+RSVtu,     -1000,         0,      1000
+SPODM,     -1000,         0,      1000
+SPODMn,      1000,      1000,      1000
+SPODMx,     -1000,     -1000,     -1000
+THYMDt1,      1000,      1000,NA
+THYMDtm,     -1000,      1000,      1000
+TYROXDAc,NA,      1000,NA
+URIt,      1000,      1000,     -1000
+r0021,      1000,     -1000, 863.71664
+r0022, 611.24156,      1000,     -1000
+r0488,-768.82776,      1000,     -1000
+r1418,     -1000,-473.16085,     -1000
+r2193,     -1000,     -1000,     -1000
+r2309,     -1000,     -1000,     -1000
+r2310,NA,     -1000,NA
+r2317,     -1000,     -1000,     -1000
