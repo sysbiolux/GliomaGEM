@@ -1,0 +1,913 @@
+name,uniprot_id,database,entrez_id,SYMBOL,clinical_phase,moa,disease_area
+bevacizumab,P02745,DrugBank,712,C1QA,NA,NA,NA
+bevacizumab,P02746,DrugBank,713,C1QB,NA,NA,NA
+bevacizumab,P02747,DrugBank,714,C1QC,NA,NA,NA
+bevacizumab,P08637,DrugBank,2214,FCGR3A,NA,NA,NA
+bevacizumab,P12314,DrugBank,2209,FCGR1A,NA,NA,NA
+bevacizumab,P12318,DrugBank,2212,FCGR2A,NA,NA,NA
+bevacizumab,P31994,DrugBank,2213,FCGR2B,NA,NA,NA
+bevacizumab,P31995,DrugBank,9103,FCGR2C,NA,NA,NA
+dabrafenib,P05177,DrugBank,1544,CYP1A2,Launched,RAF inhibitor,oncology
+doxorubicin,P10635,DrugBank,1565,CYP2D6,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+lomustine,P10635,DrugBank,1565,CYP2D6,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+everolimus,P10635,DrugBank,1565,CYP2D6,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+cyclophosphamide,P11712,DrugBank,1559,CYP2C9,Launched,DNA alkylating agent,hematologic malignancy|oncology
+dabrafenib,P11712,DrugBank,1559,CYP2C9,Launched,RAF inhibitor,oncology
+vincristine,P08183,DrugBank,5243,ABCB1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+temozolomide,P08183,DrugBank,5243,ABCB1,Launched,DNA alkylating agent,oncology
+doxorubicin,P08183,DrugBank,5243,ABCB1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+everolimus,P08183,DrugBank,5243,ABCB1,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+dabrafenib,P08183,DrugBank,5243,ABCB1,Launched,RAF inhibitor,oncology
+belzutifan,P08183,DrugBank,5243,ABCB1,NA,NA,NA
+cyclophosphamide,P08684,DrugBank,1576,CYP3A4,Launched,DNA alkylating agent,hematologic malignancy|oncology
+vincristine,P08684,DrugBank,1576,CYP3A4,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,P08684,DrugBank,1576,CYP3A4,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+lomustine,P08684,DrugBank,1576,CYP3A4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+everolimus,P08684,DrugBank,1576,CYP3A4,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+trametinib,P08684,DrugBank,1576,CYP3A4,Launched,MEK inhibitor,oncology
+dabrafenib,P08684,DrugBank,1576,CYP3A4,Launched,RAF inhibitor,oncology
+belzutifan,P08684,DrugBank,1576,CYP3A4,NA,NA,NA
+doxorubicin,P47989,DrugBank,7498,XDH,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+procarbazine,P47989,DrugBank,7498,XDH,Launched,monoamine oxidase inhibitor,hematologic malignancy
+cyclophosphamide,P33261,DrugBank,1557,CYP2C19,Launched,DNA alkylating agent,hematologic malignancy|oncology
+dabrafenib,P33261,DrugBank,1557,CYP2C19,Launched,RAF inhibitor,oncology
+belzutifan,P33261,DrugBank,1557,CYP2C19,NA,NA,NA
+vincristine,Q92887,DrugBank,1244,ABCC2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,Q92887,DrugBank,1244,ABCC2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+temozolomide,P02768,DrugBank,213,ALB,Launched,DNA alkylating agent,oncology
+doxorubicin,P02768,DrugBank,213,ALB,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+temozolomide,P02763,DrugBank,5004,ORM1,Launched,DNA alkylating agent,oncology
+cyclophosphamide,P20815,DrugBank,1577,CYP3A5,Launched,DNA alkylating agent,hematologic malignancy|oncology
+vincristine,P20815,DrugBank,1577,CYP3A5,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,O95342,DrugBank,8647,ABCB11,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,O95342,DrugBank,8647,ABCB11,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+dabrafenib,Q4U2R8,DrugBank,9356,SLC22A6,Launched,RAF inhibitor,oncology
+vincristine,Q5T3U5,DrugBank,89845,ABCC10,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,Q5T3U5,DrugBank,89845,ABCC10,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+vincristine,Q9UNQ0,DrugBank,9429,ABCG2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+temozolomide,Q9UNQ0,DrugBank,9429,ABCG2,Launched,DNA alkylating agent,oncology
+doxorubicin,Q9UNQ0,DrugBank,9429,ABCG2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+dabrafenib,Q9UNQ0,DrugBank,9429,ABCG2,Launched,RAF inhibitor,oncology
+vincristine,Q9Y6L6,DrugBank,10599,SLCO1B1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+everolimus,Q9Y6L6,DrugBank,10599,SLCO1B1,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+dabrafenib,Q9Y6L6,DrugBank,10599,SLCO1B1,Launched,RAF inhibitor,oncology
+belzutifan,Q9Y6L6,DrugBank,10599,SLCO1B1,NA,NA,NA
+vincristine,Q9NPD5,DrugBank,28234,SLCO1B3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+everolimus,Q9NPD5,DrugBank,28234,SLCO1B3,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+dabrafenib,Q9NPD5,DrugBank,28234,SLCO1B3,Launched,RAF inhibitor,oncology
+belzutifan,Q9NPD5,DrugBank,28234,SLCO1B3,NA,NA,NA
+bevacizumab,P15692,DrugBank,7422,VEGFA,NA,NA,NA
+vincristine,P33527,DrugBank,4363,ABCC1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,P33527,DrugBank,4363,ABCC1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q16678,DrugBank,1545,CYP1B1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+vincristine,O75751,DrugBank,6581,SLC22A3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,P29474,DrugBank,4846,NOS3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P35228,DrugBank,4843,NOS2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+dabrafenib,Q8TCC7,DrugBank,9376,SLC22A8,Launched,RAF inhibitor,oncology
+carmustine,P00390,DrugBank,2936,GSR,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+vincristine,O15438,DrugBank,8714,ABCC3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,O15438,DrugBank,8714,ABCC3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P29475,DrugBank,4842,NOS1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P42330,DrugBank,8644,AKR1C3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75251,DrugBank,374291,NDUFS7,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75306,DrugBank,4720,NDUFS2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75489,DrugBank,4722,NDUFS3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P14550,DrugBank,10327,AKR1A1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+cyclophosphamide,O75469,DrugBank,8856,NR1I2,Launched,DNA alkylating agent,hematologic malignancy|oncology
+doxorubicin,P15559,DrugBank,1728,NQO1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P16435,DrugBank,5447,POR,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+cyclophosphamide,P10632,DrugBank,1558,CYP2C8,Launched,DNA alkylating agent,hematologic malignancy|oncology
+trametinib,P10632,DrugBank,1558,CYP2C8,Launched,MEK inhibitor,oncology
+dabrafenib,P10632,DrugBank,1558,CYP2C8,Launched,RAF inhibitor,oncology
+cyclophosphamide,P11509,DrugBank,1548,CYP2A6,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P20813,DrugBank,1555,CYP2B6,Launched,DNA alkylating agent,hematologic malignancy|oncology
+doxorubicin,P20813,DrugBank,1555,CYP2B6,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+dabrafenib,P20813,DrugBank,1555,CYP2B6,Launched,RAF inhibitor,oncology
+vincristine,P24462,DrugBank,1551,CYP3A7,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,O95255,DrugBank,368,ABCC6,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+everolimus,P46721,DrugBank,6579,SLCO1A2,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+belzutifan,Q86VL8,DrugBank,146802,SLC47A2,NA,NA,NA
+doxorubicin,P11388,DrugBank,7153,TOP2A,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+cyclophosphamide,P33260,DrugBank,1562,CYP2C18,Launched,DNA alkylating agent,hematologic malignancy|oncology
+everolimus,P42345,DrugBank,2475,MTOR,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+vincristine,P07437,DrugBank,203068,TUBB,Launched,tubulin polymerization inhibitor,hematologic malignancy
+dabrafenib,P15056,DrugBank,673,BRAF,Launched,RAF inhibitor,oncology
+dabrafenib,P04049,DrugBank,5894,RAF1,Launched,RAF inhibitor,oncology
+vincristine,Q15311,DrugBank,10928,RALBP1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,Q15311,DrugBank,10928,RALBP1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P16152,DrugBank,873,CBR1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+belzutifan,O75795,DrugBank,7367,UGT2B17,NA,NA,NA
+vincristine,P68366,DrugBank,7277,TUBA4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+doxorubicin,Q86VW1,DrugBank,85413,SLC22A16,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75828,DrugBank,874,CBR3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q14978,DrugBank,9221,NOLC1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9NUT2,DrugBank,11194,ABCB8,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+lomustine,Q9H169,DrugBank,81551,STMN4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+trametinib,Q02750,DrugBank,5604,MAP2K1,Launched,MEK inhibitor,oncology
+trametinib,P36507,DrugBank,5605,MAP2K2,Launched,MEK inhibitor,oncology
+dabrafenib,P57059,DrugBank,150094,SIK1,Launched,RAF inhibitor,oncology
+dabrafenib,Q8NG66,DrugBank,79858,NEK11,Launched,RAF inhibitor,oncology
+dabrafenib,P53667,DrugBank,3984,LIMK1,Launched,RAF inhibitor,oncology
+belzutifan,Q99814,DrugBank,2034,EPAS1,NA,NA,NA
+bevacizumab,O75015,promiscuous,2215,FCGR3B,NA,NA,NA
+bevacizumab,P00736,promiscuous,715,C1R,NA,NA,NA
+bevacizumab,P02745,promiscuous,712,C1QA,NA,NA,NA
+bevacizumab,P02746,promiscuous,713,C1QB,NA,NA,NA
+bevacizumab,P02747,promiscuous,714,C1QC,NA,NA,NA
+bevacizumab,P08637,promiscuous,2214,FCGR3A,NA,NA,NA
+bevacizumab,P12314,promiscuous,2209,FCGR1A,NA,NA,NA
+bevacizumab,P12318,promiscuous,2212,FCGR2A,NA,NA,NA
+bevacizumab,P15692,promiscuous,7422,VEGFA,NA,NA,NA
+bevacizumab,P31994,promiscuous,2213,FCGR2B,NA,NA,NA
+bevacizumab,P31995,promiscuous,9103,FCGR2C,NA,NA,NA
+carmustine,O00255,promiscuous,4221,MEN1,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,P00352,promiscuous,216,ALDH1A1,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,P00390,promiscuous,2936,GSR,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,P16473,promiscuous,7253,TSHR,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,P42858,promiscuous,3064,HTT,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,P54132,promiscuous,641,BLM,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,Q01453,promiscuous,5376,PMP22,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,Q03164,promiscuous,4297,KMT2A,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+carmustine,P05177,promiscuous,1544,CYP1A2,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+cyclophosphamide,B2RXH2,promiscuous,390245,KDM4E,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,O75469,promiscuous,8856,NR1I2,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P16050,promiscuous,246,ALOX15,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P28482,promiscuous,5594,MAPK1,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,Q6W5P4,promiscuous,387129,NPSR1,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P11712,promiscuous,1559,CYP2C9,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P08684,promiscuous,1576,CYP3A4,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P20813,promiscuous,1555,CYP2B6,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P33261,promiscuous,1557,CYP2C19,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P11509,promiscuous,1548,CYP2A6,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P33260,promiscuous,1562,CYP2C18,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P10632,promiscuous,1558,CYP2C8,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P20815,promiscuous,1577,CYP3A5,Launched,DNA alkylating agent,hematologic malignancy|oncology
+vincristine,O15118,promiscuous,4864,NPC1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P02545,promiscuous,4000,LMNA,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P04350,promiscuous,10382,TUBB4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P07437,promiscuous,203068,TUBB,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P08183,promiscuous,5243,ABCB1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P10253,promiscuous,2548,GAA,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P10636,promiscuous,4137,MAPT,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P33527,promiscuous,4363,ABCC1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P42858,promiscuous,3064,HTT,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P51151,promiscuous,9367,RAB9A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P68363,promiscuous,10376,TUBA1B,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P68366,promiscuous,7277,TUBA4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P68371,promiscuous,10383,TUBB4B,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q13509,promiscuous,10381,TUBB3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q13748,promiscuous,7278,TUBA3C,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q13748,promiscuous,113457,TUBA3D,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q13885,promiscuous,7280,TUBB2A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q16665,promiscuous,3091,HIF1A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q3ZCM7,promiscuous,347688,TUBB8,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q6PEY2,promiscuous,112714,TUBA3E,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q71U36,promiscuous,7846,TUBA1A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q92887,promiscuous,1244,ABCC2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q9BQE3,promiscuous,84790,TUBA1C,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q9BUF5,promiscuous,84617,TUBB6,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q9BVA1,promiscuous,347733,TUBB2B,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q9H4B7,promiscuous,81027,TUBB1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q9NPD5,promiscuous,28234,SLCO1B3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q9Y6L6,promiscuous,10599,SLCO1B1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P20815,promiscuous,1577,CYP3A5,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P24462,promiscuous,1551,CYP3A7,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P08684,promiscuous,1576,CYP3A4,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,O15438,promiscuous,8714,ABCC3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,O75751,promiscuous,6581,SLC22A3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q5T3U5,promiscuous,89845,ABCC10,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,O95342,promiscuous,8647,ABCB11,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q9UNQ0,promiscuous,9429,ABCG2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,Q15311,promiscuous,10928,RALBP1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+temozolomide,O00255,promiscuous,4221,MEN1,Launched,DNA alkylating agent,oncology
+temozolomide,P11940,promiscuous,26986,PABPC1,Launched,DNA alkylating agent,oncology
+temozolomide,Q03164,promiscuous,4297,KMT2A,Launched,DNA alkylating agent,oncology
+temozolomide,P08684,promiscuous,1576,CYP3A4,Launched,DNA alkylating agent,oncology
+doxorubicin,B2RXH2,promiscuous,390245,KDM4E,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O00255,promiscuous,4221,MEN1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O14727,promiscuous,317,APAF1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O14746,promiscuous,7015,TERT,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O14965,promiscuous,6790,AURKA,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O15118,promiscuous,4864,NPC1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75604,promiscuous,9099,USP2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O94956,promiscuous,11309,SLCO2B1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P00352,promiscuous,216,ALDH1A1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P04626,promiscuous,2064,ERBB2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P06239,promiscuous,3932,LCK,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P06241,promiscuous,2534,FYN,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P06746,promiscuous,5423,POLB,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P07900,promiscuous,3320,HSP90AA1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P08183,promiscuous,5243,ABCB1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P08238,promiscuous,3326,HSP90AB1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P08253,promiscuous,4313,MMP2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P08684,promiscuous,1576,CYP3A4,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P10415,promiscuous,596,BCL2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P10636,promiscuous,4137,MAPT,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P10828,promiscuous,7068,THRB,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P11229,promiscuous,1128,CHRM1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P11387,promiscuous,7150,TOP1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P11388,promiscuous,7153,TOP2A,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P14550,promiscuous,10327,AKR1A1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P16152,promiscuous,873,CBR1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P26447,promiscuous,6275,S100A4,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P28482,promiscuous,5594,MAPK1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P29466,promiscuous,834,CASP1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P33527,promiscuous,4363,ABCC1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P38398,promiscuous,672,BRCA1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P42226,promiscuous,6778,STAT6,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P46063,promiscuous,5965,RECQL,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P51151,promiscuous,9367,RAB9A,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P54132,promiscuous,641,BLM,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q03164,promiscuous,4297,KMT2A,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q06710,promiscuous,7849,PAX8,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q07817,promiscuous,598,BCL2L1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q14978,promiscuous,9221,NOLC1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q15125,promiscuous,10682,EBP,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q16637,promiscuous,6607,SMN2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q16665,promiscuous,3091,HIF1A,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q6W5P4,promiscuous,387129,NPSR1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q99814,promiscuous,2034,EPAS1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9NPD5,promiscuous,28234,SLCO1B3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9NUW8,promiscuous,55775,TDP1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9NZ45,promiscuous,55847,CISD1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9UBM7,promiscuous,1717,DHCR7,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9UNQ0,promiscuous,9429,ABCG2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9Y6L6,promiscuous,10599,SLCO1B1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P10635,promiscuous,1565,CYP2D6,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P20813,promiscuous,1555,CYP2B6,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q16678,promiscuous,1545,CYP1B1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75828,promiscuous,874,CBR3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P42330,promiscuous,8644,AKR1C3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P15559,promiscuous,1728,NQO1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P47989,promiscuous,7498,XDH,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P29475,promiscuous,4842,NOS1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P35228,promiscuous,4843,NOS2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P29474,promiscuous,4846,NOS3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75306,promiscuous,4720,NDUFS2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75489,promiscuous,4722,NDUFS3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O75251,promiscuous,374291,NDUFS7,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P16435,promiscuous,5447,POR,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O15438,promiscuous,8714,ABCC3,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O95255,promiscuous,368,ABCC6,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q86VW1,promiscuous,85413,SLC22A16,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q5T3U5,promiscuous,89845,ABCC10,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q9NUT2,promiscuous,11194,ABCB8,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,O95342,promiscuous,8647,ABCB11,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q15311,promiscuous,10928,RALBP1,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,Q92887,promiscuous,1244,ABCC2,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+doxorubicin,P02768,promiscuous,213,ALB,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+procarbazine,P00352,promiscuous,216,ALDH1A1,Launched,monoamine oxidase inhibitor,hematologic malignancy
+procarbazine,P02545,promiscuous,4000,LMNA,Launched,monoamine oxidase inhibitor,hematologic malignancy
+procarbazine,P05177,promiscuous,1544,CYP1A2,Launched,monoamine oxidase inhibitor,hematologic malignancy
+procarbazine,P16050,promiscuous,246,ALOX15,Launched,monoamine oxidase inhibitor,hematologic malignancy
+procarbazine,P27338,promiscuous,4129,MAOB,Launched,monoamine oxidase inhibitor,hematologic malignancy
+procarbazine,P33261,promiscuous,1557,CYP2C19,Launched,monoamine oxidase inhibitor,hematologic malignancy
+procarbazine,P47989,promiscuous,7498,XDH,Launched,monoamine oxidase inhibitor,hematologic malignancy
+procarbazine,Q16678,promiscuous,1545,CYP1B1,Launched,monoamine oxidase inhibitor,hematologic malignancy
+lomustine,Q9H169,promiscuous,81551,STMN4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+lomustine,P08684,promiscuous,1576,CYP3A4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+lomustine,P10635,promiscuous,1565,CYP2D6,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+everolimus,P15382,promiscuous,3753,KCNE1,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,P42345,promiscuous,2475,MTOR,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,P51787,promiscuous,3784,KCNQ1,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,Q12809,promiscuous,3757,KCNH2,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,Q14524,promiscuous,6331,SCN5A,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,Q9UK17,promiscuous,3752,KCND3,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,P08684,promiscuous,1576,CYP3A4,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,Q9Y6L6,promiscuous,10599,SLCO1B1,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,Q9NPD5,promiscuous,28234,SLCO1B3,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+everolimus,P46721,promiscuous,6579,SLCO1A2,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+trametinib,P36507,promiscuous,5605,MAP2K2,Launched,MEK inhibitor,oncology
+trametinib,Q02750,promiscuous,5604,MAP2K1,Launched,MEK inhibitor,oncology
+trametinib,P10632,promiscuous,1558,CYP2C8,Launched,MEK inhibitor,oncology
+trametinib,P08684,promiscuous,1576,CYP3A4,Launched,MEK inhibitor,oncology
+dabrafenib,P04049,promiscuous,5894,RAF1,Launched,RAF inhibitor,oncology
+dabrafenib,P10398,promiscuous,369,ARAF,Launched,RAF inhibitor,oncology
+dabrafenib,P15056,promiscuous,673,BRAF,Launched,RAF inhibitor,oncology
+dabrafenib,P36897,promiscuous,7046,TGFBR1,Launched,RAF inhibitor,oncology
+dabrafenib,P53667,promiscuous,3984,LIMK1,Launched,RAF inhibitor,oncology
+dabrafenib,P57059,promiscuous,150094,SIK1,Launched,RAF inhibitor,oncology
+dabrafenib,Q8NG66,promiscuous,79858,NEK11,Launched,RAF inhibitor,oncology
+dabrafenib,P08684,promiscuous,1576,CYP3A4,Launched,RAF inhibitor,oncology
+dabrafenib,P10632,promiscuous,1558,CYP2C8,Launched,RAF inhibitor,oncology
+dabrafenib,P20813,promiscuous,1555,CYP2B6,Launched,RAF inhibitor,oncology
+dabrafenib,P11712,promiscuous,1559,CYP2C9,Launched,RAF inhibitor,oncology
+dabrafenib,P08183,promiscuous,5243,ABCB1,Launched,RAF inhibitor,oncology
+dabrafenib,Q9UNQ0,promiscuous,9429,ABCG2,Launched,RAF inhibitor,oncology
+dabrafenib,Q9Y6L6,promiscuous,10599,SLCO1B1,Launched,RAF inhibitor,oncology
+dabrafenib,Q9NPD5,promiscuous,28234,SLCO1B3,Launched,RAF inhibitor,oncology
+dabrafenib,Q4U2R8,promiscuous,9356,SLC22A6,Launched,RAF inhibitor,oncology
+dabrafenib,Q8TCC7,promiscuous,9376,SLC22A8,Launched,RAF inhibitor,oncology
+carmustine,P00390,RepurpusingHub,2936,GSR,Launched,DNA alkylating agent|DNA inhibitor,hematologic malignancy|oncology
+cyclophosphamide,P11509,RepurpusingHub,1548,CYP2A6,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P20813,RepurpusingHub,1555,CYP2B6,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P33260,RepurpusingHub,1562,CYP2C18,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P33261,RepurpusingHub,1557,CYP2C19,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P10632,RepurpusingHub,1558,CYP2C8,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P11712,RepurpusingHub,1559,CYP2C9,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P10635,RepurpusingHub,1565,CYP2D6,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P08684,RepurpusingHub,1576,CYP3A4,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P20815,RepurpusingHub,1577,CYP3A5,Launched,DNA alkylating agent,hematologic malignancy|oncology
+cyclophosphamide,P24462,RepurpusingHub,1551,CYP3A7,Launched,DNA alkylating agent,hematologic malignancy|oncology
+dabrafenib,P15056,RepurpusingHub,673,BRAF,Launched,RAF inhibitor,oncology
+dabrafenib,P53667,RepurpusingHub,3984,LIMK1,Launched,RAF inhibitor,oncology
+dabrafenib,Q8NG66,RepurpusingHub,79858,NEK11,Launched,RAF inhibitor,oncology
+dabrafenib,P04049,RepurpusingHub,5894,RAF1,Launched,RAF inhibitor,oncology
+dabrafenib,P57059,RepurpusingHub,150094,SIK1,Launched,RAF inhibitor,oncology
+doxorubicin,P11388,RepurpusingHub,7153,TOP2A,Launched,topoisomerase inhibitor,hematologic malignancy|oncology
+everolimus,P42345,RepurpusingHub,2475,MTOR,Launched,mTOR inhibitor,oncology|neurology/psychiatry|genetics|urology
+temozolomide,P16455,RepurpusingHub,4255,MGMT,Launched,DNA alkylating agent,oncology
+trametinib,Q02750,RepurpusingHub,5604,MAP2K1,Launched,MEK inhibitor,oncology
+trametinib,P36507,RepurpusingHub,5605,MAP2K2,Launched,MEK inhibitor,oncology
+vincristine,P68366,RepurpusingHub,7277,TUBA4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+vincristine,P07437,RepurpusingHub,203068,TUBB,Launched,tubulin polymerization inhibitor,hematologic malignancy
+erlotinib,P00533,DrugBank,1956,EGFR,Launched,EGFR inhibitor,oncology
+erlotinib,P05177,DrugBank,1544,CYP1A2,Launched,EGFR inhibitor,oncology
+fluorouracil,P05177,DrugBank,1544,CYP1A2,NA,NA,NA
+cannabidiol,P05177,DrugBank,1544,CYP1A2,NA,NA,NA
+erlotinib,P10635,DrugBank,1565,CYP2D6,Launched,EGFR inhibitor,oncology
+cannabidiol,P10635,DrugBank,1565,CYP2D6,NA,NA,NA
+fluorouracil,P11712,DrugBank,1559,CYP2C9,NA,NA,NA
+tranilast,P11712,DrugBank,1559,CYP2C9,Launched,angiogenesis inhibitor,pulmonary
+regorafenib,P11712,DrugBank,1559,CYP2C9,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P11712,DrugBank,1559,CYP2C9,NA,NA,NA
+fluorouracil,P05543,DrugBank,6906,SERPINA7,NA,NA,NA
+erlotinib,P08183,DrugBank,5243,ABCB1,Launched,EGFR inhibitor,oncology
+regorafenib,P08183,DrugBank,5243,ABCB1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+larotrectinib,P08183,DrugBank,5243,ABCB1,Launched,tropomyosin receptor kinase inhibitor,NA
+cannabidiol,P23219,DrugBank,5742,PTGS1,NA,NA,NA
+cannabidiol,P35354,DrugBank,5743,PTGS2,NA,NA,NA
+regorafenib,P21802,DrugBank,2263,FGFR2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P11362,DrugBank,2260,FGFR1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+erlotinib,P08684,DrugBank,1576,CYP3A4,Launched,EGFR inhibitor,oncology
+tranilast,P08684,DrugBank,1576,CYP3A4,Launched,angiogenesis inhibitor,pulmonary
+regorafenib,P08684,DrugBank,1576,CYP3A4,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P08684,DrugBank,1576,CYP3A4,NA,NA,NA
+larotrectinib,P08684,DrugBank,1576,CYP3A4,Launched,tropomyosin receptor kinase inhibitor,NA
+regorafenib,P33261,DrugBank,1557,CYP2C19,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P33261,DrugBank,1557,CYP2C19,NA,NA,NA
+erlotinib,P02768,DrugBank,213,ALB,Launched,EGFR inhibitor,oncology
+fluorouracil,P02768,DrugBank,213,ALB,NA,NA,NA
+erlotinib,P02763,DrugBank,5004,ORM1,Launched,EGFR inhibitor,oncology
+erlotinib,P20815,DrugBank,1577,CYP3A5,Launched,EGFR inhibitor,oncology
+cannabidiol,P20815,DrugBank,1577,CYP3A5,NA,NA,NA
+erlotinib,Q9UNQ0,DrugBank,9429,ABCG2,Launched,EGFR inhibitor,oncology
+fluorouracil,Q9UNQ0,DrugBank,9429,ABCG2,NA,NA,NA
+regorafenib,Q9UNQ0,DrugBank,9429,ABCG2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,Q9UNQ0,DrugBank,9429,ABCG2,NA,NA,NA
+larotrectinib,Q9UNQ0,DrugBank,9429,ABCG2,Launched,tropomyosin receptor kinase inhibitor,NA
+gimatecan,Q9Y6L6,DrugBank,10599,SLCO1B1,NA,NA,NA
+regorafenib,P09619,DrugBank,5159,PDGFRB,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P16234,DrugBank,5156,PDGFRA,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+eflornithine,P11926,DrugBank,4953,ODC1,NA,NA,NA
+eflornithine,P11926,DrugBank,4953,ODC1,Launched,ornithine decarboxylase inhibitor,dermatology
+fluorouracil,P42898,DrugBank,4524,MTHFR,NA,NA,NA
+zoledronic acid,P33527,DrugBank,4363,ABCC1,NA,NA,NA
+cannabidiol,P33527,DrugBank,4363,ABCC1,NA,NA,NA
+erlotinib,Q16678,DrugBank,1545,CYP1B1,Launched,EGFR inhibitor,oncology
+cannabidiol,Q16678,DrugBank,1545,CYP1B1,NA,NA,NA
+cannabidiol,P36544,DrugBank,1139,CHRNA7,NA,NA,NA
+fluorouracil,Q06203,DrugBank,5471,PPAT,NA,NA,NA
+cannabidiol,Q8NER1,DrugBank,7442,TRPV1,NA,NA,NA
+cannabidiol,P37231,DrugBank,5468,PPARG,NA,NA,NA
+talampanel,P42261,DrugBank,2890,GRIA1,Phase 2,glutamate receptor antagonist,NA
+talampanel,P42262,DrugBank,2891,GRIA2,Phase 2,glutamate receptor antagonist,NA
+talampanel,P42263,DrugBank,2892,GRIA3,Phase 2,glutamate receptor antagonist,NA
+talampanel,P48058,DrugBank,2893,GRIA4,Phase 2,glutamate receptor antagonist,NA
+tranilast,O60760,DrugBank,27306,HPGDS,Launched,angiogenesis inhibitor,pulmonary
+cannabidiol,P00390,DrugBank,2936,GSR,NA,NA,NA
+cannabidiol,P07203,DrugBank,2876,GPX1,NA,NA,NA
+fluorouracil,O15438,DrugBank,8714,ABCC3,NA,NA,NA
+fluorouracil,O15439,DrugBank,10257,ABCC4,NA,NA,NA
+fluorouracil,O15440,DrugBank,10057,ABCC5,NA,NA,NA
+cannabidiol,Q14330,DrugBank,2841,GPR18,NA,NA,NA
+cannabidiol,P23415,DrugBank,2741,GLRA1,NA,NA,NA
+cannabidiol,O75311,DrugBank,8001,GLRA3,NA,NA,NA
+cannabidiol,P14902,DrugBank,3620,IDO1,NA,NA,NA
+cannabidiol,P04035,DrugBank,3156,HMGCR,NA,NA,NA
+cannabidiol,P05093,DrugBank,1586,CYP17A1,NA,NA,NA
+erlotinib,O75469,DrugBank,8856,NR1I2,Launched,EGFR inhibitor,oncology
+cannabidiol,P09917,DrugBank,240,ALOX5,NA,NA,NA
+cannabidiol,P15559,DrugBank,1728,NQO1,NA,NA,NA
+cannabidiol,P00441,DrugBank,6647,SOD1,NA,NA,NA
+erlotinib,P04798,DrugBank,1543,CYP1A1,Launched,EGFR inhibitor,oncology
+cannabidiol,P04798,DrugBank,1543,CYP1A1,NA,NA,NA
+erlotinib,P10632,DrugBank,1558,CYP2C8,Launched,EGFR inhibitor,oncology
+fluorouracil,P10632,DrugBank,1558,CYP2C8,NA,NA,NA
+regorafenib,P10632,DrugBank,1558,CYP2C8,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+fluorouracil,P11509,DrugBank,1548,CYP2A6,NA,NA,NA
+regorafenib,P20813,DrugBank,1555,CYP2B6,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P24462,DrugBank,1551,CYP3A7,NA,NA,NA
+regorafenib,P00519,DrugBank,25,ABL1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+erlotinib,P22309,DrugBank,54658,UGT1A1,Launched,EGFR inhibitor,oncology
+regorafenib,P22309,DrugBank,54658,UGT1A1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+erlotinib,O94956,DrugBank,11309,SLCO2B1,Launched,EGFR inhibitor,oncology
+fluorouracil,Q9Y694,DrugBank,10864,SLC22A7,NA,NA,NA
+cannabidiol,P35372,DrugBank,4988,OPRM1,NA,NA,NA
+cannabidiol,P41143,DrugBank,4985,OPRD1,NA,NA,NA
+cannabidiol,P30542,DrugBank,134,ADORA1,NA,NA,NA
+fluorouracil,Q99808,DrugBank,2030,SLC29A1,NA,NA,NA
+cannabidiol,Q99808,DrugBank,2030,SLC29A1,NA,NA,NA
+regorafenib,O60656,DrugBank,54600,UGT1A9,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P08908,DrugBank,3350,HTR1A,NA,NA,NA
+cannabidiol,P28223,DrugBank,3356,HTR2A,NA,NA,NA
+cannabidiol,Q08257,DrugBank,1429,CRYZ,NA,NA,NA
+cannabidiol,O95180,DrugBank,8912,CACNA1H,NA,NA,NA
+zoledronic acid,P14324,DrugBank,2224,FDPS,NA,NA,NA
+zoledronic acid,O95749,DrugBank,9453,GGPS1,NA,NA,NA
+fluorouracil,P04818,DrugBank,7298,TYMS,NA,NA,NA
+cannabidiol,O00519,DrugBank,2166,FAAH,NA,NA,NA
+regorafenib,P04629,DrugBank,4914,NTRK1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+larotrectinib,P04629,DrugBank,4914,NTRK1,Launched,tropomyosin receptor kinase inhibitor,NA
+larotrectinib,Q16620,DrugBank,4915,NTRK2,Launched,tropomyosin receptor kinase inhibitor,NA
+fluorouracil,P19971,DrugBank,1890,TYMP,NA,NA,NA
+cannabidiol,P46098,DrugBank,3359,HTR3A,NA,NA,NA
+cannabidiol,O43497,DrugBank,8913,CACNA1G,NA,NA,NA
+cannabidiol,Q9P0X4,DrugBank,8911,CACNA1I,NA,NA,NA
+regorafenib,P15056,DrugBank,673,BRAF,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P04049,DrugBank,5894,RAF1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P35916,DrugBank,2324,FLT4,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P35968,DrugBank,3791,KDR,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P10721,DrugBank,3815,KIT,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P07949,DrugBank,5979,RET,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P17948,DrugBank,2321,FLT1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q02763,DrugBank,7010,TEK,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P21554,DrugBank,1268,CNR1,NA,NA,NA
+cannabidiol,P34972,DrugBank,1269,CNR2,NA,NA,NA
+fluorouracil,Q12882,DrugBank,1806,DPYD,NA,NA,NA
+fluorouracil,Q16831,DrugBank,7378,UPP1,NA,NA,NA
+fluorouracil,O95045,DrugBank,151531,UPP2,NA,NA,NA
+fluorouracil,P11172,DrugBank,7372,UMPS,NA,NA,NA
+flucytosine,P26358,DrugBank,1786,DNMT1,Launched,other antifungal,infectious disease
+cannabidiol,P24752,DrugBank,38,ACAT1,NA,NA,NA
+cannabidiol,Q7Z2W7,DrugBank,79054,TRPM8,NA,NA,NA
+cannabidiol,O75762,DrugBank,8989,TRPA1,NA,NA,NA
+cannabidiol,Q8NET8,DrugBank,162514,TRPV3,NA,NA,NA
+cannabidiol,P04040,DrugBank,847,CAT,NA,NA,NA
+regorafenib,P29317,DrugBank,1969,EPHA2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P42685,DrugBank,2444,FRK,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P21796,DrugBank,7416,VDAC1,NA,NA,NA
+cannabidiol,P16050,DrugBank,246,ALOX15,NA,NA,NA
+regorafenib,Q15759,DrugBank,5600,MAPK11,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+trabedersen,P61812,DrugBank,7042,TGFB2,NA,NA,NA
+cannabidiol,Q9Y2T6,DrugBank,9290,GPR55,NA,NA,NA
+regorafenib,Q16832,DrugBank,4921,DDR2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,P47775,DrugBank,2835,GPR12,NA,NA,NA
+cannabidiol,Q9Y5S1,DrugBank,51393,TRPV2,NA,NA,NA
+cannabidiol,Q9HBA0,DrugBank,59341,TRPV4,NA,NA,NA
+cannabidiol,Q02083,DrugBank,27163,NAAA,NA,NA,NA
+larotrectinib,Q16288,DrugBank,4916,NTRK3,Launched,tropomyosin receptor kinase inhibitor,NA
+zoledronic acid,O43570,promiscuous,771,CA12,NA,NA,NA
+zoledronic acid,O95749,promiscuous,9453,GGPS1,NA,NA,NA
+zoledronic acid,P00918,promiscuous,760,CA2,NA,NA,NA
+zoledronic acid,P02545,promiscuous,4000,LMNA,NA,NA,NA
+zoledronic acid,P08253,promiscuous,4313,MMP2,NA,NA,NA
+zoledronic acid,P14324,promiscuous,2224,FDPS,NA,NA,NA
+zoledronic acid,P14780,promiscuous,4318,MMP9,NA,NA,NA
+zoledronic acid,P22894,promiscuous,4317,MMP8,NA,NA,NA
+zoledronic acid,P50281,promiscuous,4323,MMP14,NA,NA,NA
+zoledronic acid,Q16790,promiscuous,768,CA9,NA,NA,NA
+zoledronic acid,Q9ULX7,promiscuous,23632,CA14,NA,NA,NA
+zoledronic acid,P33527,promiscuous,4363,ABCC1,NA,NA,NA
+erlotinib,O00444,promiscuous,10733,PLK4,Launched,EGFR inhibitor,oncology
+erlotinib,O14578,promiscuous,11113,CIT,Launched,EGFR inhibitor,oncology
+erlotinib,O14965,promiscuous,6790,AURKA,Launched,EGFR inhibitor,oncology
+erlotinib,O14976,promiscuous,2580,GAK,Launched,EGFR inhibitor,oncology
+erlotinib,O15197,promiscuous,2051,EPHB6,Launched,EGFR inhibitor,oncology
+erlotinib,O43293,promiscuous,1613,DAPK3,Launched,EGFR inhibitor,oncology
+erlotinib,O43353,promiscuous,8767,RIPK2,Launched,EGFR inhibitor,oncology
+erlotinib,O60674,promiscuous,3717,JAK2,Launched,EGFR inhibitor,oncology
+erlotinib,O75469,promiscuous,8856,NR1I2,Launched,EGFR inhibitor,oncology
+erlotinib,O75676,promiscuous,8986,RPS6KA4,Launched,EGFR inhibitor,oncology
+erlotinib,O94768,promiscuous,9262,STK17B,Launched,EGFR inhibitor,oncology
+erlotinib,O94804,promiscuous,6793,STK10,Launched,EGFR inhibitor,oncology
+erlotinib,O94956,promiscuous,11309,SLCO2B1,Launched,EGFR inhibitor,oncology
+erlotinib,P00519,promiscuous,25,ABL1,Launched,EGFR inhibitor,oncology
+erlotinib,P00533,promiscuous,1956,EGFR,Launched,EGFR inhibitor,oncology
+erlotinib,P02545,promiscuous,4000,LMNA,Launched,EGFR inhibitor,oncology
+erlotinib,P04049,promiscuous,5894,RAF1,Launched,EGFR inhibitor,oncology
+erlotinib,P04626,promiscuous,2064,ERBB2,Launched,EGFR inhibitor,oncology
+erlotinib,P06239,promiscuous,3932,LCK,Launched,EGFR inhibitor,oncology
+erlotinib,P07947,promiscuous,7525,YES1,Launched,EGFR inhibitor,oncology
+erlotinib,P07948,promiscuous,4067,LYN,Launched,EGFR inhibitor,oncology
+erlotinib,P07949,promiscuous,5979,RET,Launched,EGFR inhibitor,oncology
+erlotinib,P08183,promiscuous,5243,ABCB1,Launched,EGFR inhibitor,oncology
+erlotinib,P08581,promiscuous,4233,MET,Launched,EGFR inhibitor,oncology
+erlotinib,P08631,promiscuous,3055,HCK,Launched,EGFR inhibitor,oncology
+erlotinib,P08684,promiscuous,1576,CYP3A4,Launched,EGFR inhibitor,oncology
+erlotinib,P09619,promiscuous,5159,PDGFRB,Launched,EGFR inhibitor,oncology
+erlotinib,P09769,promiscuous,2268,FGR,Launched,EGFR inhibitor,oncology
+erlotinib,P10721,promiscuous,3815,KIT,Launched,EGFR inhibitor,oncology
+erlotinib,P12931,promiscuous,6714,SRC,Launched,EGFR inhibitor,oncology
+erlotinib,P16234,promiscuous,5156,PDGFRA,Launched,EGFR inhibitor,oncology
+erlotinib,P17948,promiscuous,2321,FLT1,Launched,EGFR inhibitor,oncology
+erlotinib,P19525,promiscuous,5610,EIF2AK2,Launched,EGFR inhibitor,oncology
+erlotinib,P21802,promiscuous,2263,FGFR2,Launched,EGFR inhibitor,oncology
+erlotinib,P21860,promiscuous,2065,ERBB3,Launched,EGFR inhibitor,oncology
+erlotinib,P29320,promiscuous,2042,EPHA3,Launched,EGFR inhibitor,oncology
+erlotinib,P29322,promiscuous,2046,EPHA8,Launched,EGFR inhibitor,oncology
+erlotinib,P29376,promiscuous,4058,LTK,Launched,EGFR inhibitor,oncology
+erlotinib,P29597,promiscuous,7297,TYK2,Launched,EGFR inhibitor,oncology
+erlotinib,P30530,promiscuous,558,AXL,Launched,EGFR inhibitor,oncology
+erlotinib,P31152,promiscuous,5596,MAPK4,Launched,EGFR inhibitor,oncology
+erlotinib,P32298,promiscuous,2868,GRK4,Launched,EGFR inhibitor,oncology
+erlotinib,P33981,promiscuous,7272,TTK,Launched,EGFR inhibitor,oncology
+erlotinib,P35590,promiscuous,7075,TIE1,Launched,EGFR inhibitor,oncology
+erlotinib,P35916,promiscuous,2324,FLT4,Launched,EGFR inhibitor,oncology
+erlotinib,P35968,promiscuous,3791,KDR,Launched,EGFR inhibitor,oncology
+erlotinib,P36888,promiscuous,2322,FLT3,Launched,EGFR inhibitor,oncology
+erlotinib,P41240,promiscuous,1445,CSK,Launched,EGFR inhibitor,oncology
+erlotinib,P42681,promiscuous,7294,TXK,Launched,EGFR inhibitor,oncology
+erlotinib,P42684,promiscuous,27,ABL2,Launched,EGFR inhibitor,oncology
+erlotinib,P42685,promiscuous,2444,FRK,Launched,EGFR inhibitor,oncology
+erlotinib,P43405,promiscuous,6850,SYK,Launched,EGFR inhibitor,oncology
+erlotinib,P45984,promiscuous,5601,MAPK9,Launched,EGFR inhibitor,oncology
+erlotinib,P48730,promiscuous,1453,CSNK1D,Launched,EGFR inhibitor,oncology
+erlotinib,P49674,promiscuous,1454,CSNK1E,Launched,EGFR inhibitor,oncology
+erlotinib,P51451,promiscuous,640,BLK,Launched,EGFR inhibitor,oncology
+erlotinib,P52333,promiscuous,3718,JAK3,Launched,EGFR inhibitor,oncology
+erlotinib,P53779,promiscuous,5602,MAPK10,Launched,EGFR inhibitor,oncology
+erlotinib,P54756,promiscuous,2044,EPHA5,Launched,EGFR inhibitor,oncology
+erlotinib,P54760,promiscuous,2050,EPHB4,Launched,EGFR inhibitor,oncology
+erlotinib,P54762,promiscuous,2047,EPHB1,Launched,EGFR inhibitor,oncology
+erlotinib,P57078,promiscuous,54101,RIPK4,Launched,EGFR inhibitor,oncology
+erlotinib,Q06418,promiscuous,7301,TYRO3,Launched,EGFR inhibitor,oncology
+erlotinib,Q08345,promiscuous,780,DDR1,Launched,EGFR inhibitor,oncology
+erlotinib,Q09013,promiscuous,1760,DMPK,Launched,EGFR inhibitor,oncology
+erlotinib,Q12866,promiscuous,10461,MERTK,Launched,EGFR inhibitor,oncology
+erlotinib,Q13163,promiscuous,5607,MAP2K5,Launched,EGFR inhibitor,oncology
+erlotinib,Q13470,promiscuous,8711,TNK1,Launched,EGFR inhibitor,oncology
+erlotinib,Q13557,promiscuous,817,CAMK2D,Launched,EGFR inhibitor,oncology
+erlotinib,Q15303,promiscuous,2066,ERBB4,Launched,EGFR inhibitor,oncology
+erlotinib,Q15375,promiscuous,2045,EPHA7,Launched,EGFR inhibitor,oncology
+erlotinib,Q16513,promiscuous,5586,PKN2,Launched,EGFR inhibitor,oncology
+erlotinib,Q2M2I8,promiscuous,22848,AAK1,Launched,EGFR inhibitor,oncology
+erlotinib,Q52WX2,promiscuous,388228,SBK1,Launched,EGFR inhibitor,oncology
+erlotinib,Q56UN5,promiscuous,80122,MAP3K19,Launched,EGFR inhibitor,oncology
+erlotinib,Q59H18,promiscuous,51086,TNNI3K,Launched,EGFR inhibitor,oncology
+erlotinib,Q5S007,promiscuous,120892,LRRK2,Launched,EGFR inhibitor,oncology
+erlotinib,Q6DT37,promiscuous,55561,CDC42BPG,Launched,EGFR inhibitor,oncology
+erlotinib,Q6PHR2,promiscuous,25989,ULK3,Launched,EGFR inhibitor,oncology
+erlotinib,Q8N4C8,promiscuous,50488,MINK1,Launched,EGFR inhibitor,oncology
+erlotinib,Q8NE63,promiscuous,147746,HIPK4,Launched,EGFR inhibitor,oncology
+erlotinib,Q8NI60,promiscuous,56997,COQ8A,Launched,EGFR inhibitor,oncology
+erlotinib,Q8TBX8,promiscuous,79837,PIP4K2C,Launched,EGFR inhibitor,oncology
+erlotinib,Q92630,promiscuous,8445,DYRK2,Launched,EGFR inhibitor,oncology
+erlotinib,Q92887,promiscuous,1244,ABCC2,Launched,EGFR inhibitor,oncology
+erlotinib,Q96D53,promiscuous,79934,COQ8B,Launched,EGFR inhibitor,oncology
+erlotinib,Q96GD4,promiscuous,9212,AURKB,Launched,EGFR inhibitor,oncology
+erlotinib,Q99759,promiscuous,4215,MAP3K3,Launched,EGFR inhibitor,oncology
+erlotinib,Q9BUB5,promiscuous,8569,MKNK1,Launched,EGFR inhibitor,oncology
+erlotinib,Q9BZL6,promiscuous,25865,PRKD2,Launched,EGFR inhibitor,oncology
+erlotinib,Q9H0K1,promiscuous,23235,SIK2,Launched,EGFR inhibitor,oncology
+erlotinib,Q9H1R3,promiscuous,85366,MYLK2,Launched,EGFR inhibitor,oncology
+erlotinib,Q9H2G2,promiscuous,9748,SLK,Launched,EGFR inhibitor,oncology
+erlotinib,Q9HBH9,promiscuous,2872,MKNK2,Launched,EGFR inhibitor,oncology
+erlotinib,Q9NPD5,promiscuous,28234,SLCO1B3,Launched,EGFR inhibitor,oncology
+erlotinib,Q9NRP7,promiscuous,27148,STK36,Launched,EGFR inhibitor,oncology
+erlotinib,Q9NSY1,promiscuous,55589,BMP2K,Launched,EGFR inhibitor,oncology
+erlotinib,Q9P2K8,promiscuous,440275,EIF2AK4,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UEE5,promiscuous,9263,STK17A,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UF33,promiscuous,285220,EPHA6,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UHD2,promiscuous,29110,TBK1,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UKE5,promiscuous,23043,TNIK,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UM73,promiscuous,238,ALK,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UNQ0,promiscuous,9429,ABCG2,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UPE1,promiscuous,26576,SRPK3,Launched,EGFR inhibitor,oncology
+erlotinib,Q9UQB9,promiscuous,6795,AURKC,Launched,EGFR inhibitor,oncology
+erlotinib,Q9Y2U5,promiscuous,10746,MAP3K2,Launched,EGFR inhibitor,oncology
+erlotinib,Q9Y6L6,promiscuous,10599,SLCO1B1,Launched,EGFR inhibitor,oncology
+erlotinib,P20815,promiscuous,1577,CYP3A5,Launched,EGFR inhibitor,oncology
+erlotinib,P05177,promiscuous,1544,CYP1A2,Launched,EGFR inhibitor,oncology
+erlotinib,P04798,promiscuous,1543,CYP1A1,Launched,EGFR inhibitor,oncology
+erlotinib,P10635,promiscuous,1565,CYP2D6,Launched,EGFR inhibitor,oncology
+erlotinib,P10632,promiscuous,1558,CYP2C8,Launched,EGFR inhibitor,oncology
+erlotinib,Q16678,promiscuous,1545,CYP1B1,Launched,EGFR inhibitor,oncology
+erlotinib,P22309,promiscuous,54658,UGT1A1,Launched,EGFR inhibitor,oncology
+erlotinib,P02768,promiscuous,213,ALB,Launched,EGFR inhibitor,oncology
+erlotinib,P02763,promiscuous,5004,ORM1,Launched,EGFR inhibitor,oncology
+fluorouracil,P00352,promiscuous,216,ALDH1A1,NA,NA,NA
+fluorouracil,P02545,promiscuous,4000,LMNA,NA,NA,NA
+fluorouracil,P04818,promiscuous,7298,TYMS,NA,NA,NA
+fluorouracil,P10636,promiscuous,4137,MAPT,NA,NA,NA
+fluorouracil,P16473,promiscuous,7253,TSHR,NA,NA,NA
+fluorouracil,P40225,promiscuous,7066,THPO,NA,NA,NA
+fluorouracil,P42345,promiscuous,2475,MTOR,NA,NA,NA
+fluorouracil,P42858,promiscuous,3064,HTT,NA,NA,NA
+fluorouracil,P68871,promiscuous,3043,HBB,NA,NA,NA
+fluorouracil,Q01453,promiscuous,5376,PMP22,NA,NA,NA
+fluorouracil,Q16637,promiscuous,6607,SMN2,NA,NA,NA
+fluorouracil,P11712,promiscuous,1559,CYP2C9,NA,NA,NA
+fluorouracil,P05177,promiscuous,1544,CYP1A2,NA,NA,NA
+fluorouracil,P19971,promiscuous,1890,TYMP,NA,NA,NA
+fluorouracil,Q12882,promiscuous,1806,DPYD,NA,NA,NA
+fluorouracil,Q16831,promiscuous,7378,UPP1,NA,NA,NA
+fluorouracil,O95045,promiscuous,151531,UPP2,NA,NA,NA
+fluorouracil,P11509,promiscuous,1548,CYP2A6,NA,NA,NA
+fluorouracil,P10632,promiscuous,1558,CYP2C8,NA,NA,NA
+fluorouracil,P42898,promiscuous,4524,MTHFR,NA,NA,NA
+fluorouracil,P11172,promiscuous,7372,UMPS,NA,NA,NA
+fluorouracil,Q06203,promiscuous,5471,PPAT,NA,NA,NA
+fluorouracil,Q9Y694,promiscuous,10864,SLC22A7,NA,NA,NA
+fluorouracil,Q99808,promiscuous,2030,SLC29A1,NA,NA,NA
+fluorouracil,Q9UNQ0,promiscuous,9429,ABCG2,NA,NA,NA
+fluorouracil,O15438,promiscuous,8714,ABCC3,NA,NA,NA
+fluorouracil,O15439,promiscuous,10257,ABCC4,NA,NA,NA
+fluorouracil,O15440,promiscuous,10057,ABCC5,NA,NA,NA
+fluorouracil,P02768,promiscuous,213,ALB,NA,NA,NA
+flucytosine,P02545,promiscuous,4000,LMNA,Launched,other antifungal,infectious disease
+flucytosine,P26358,promiscuous,1786,DNMT1,Launched,other antifungal,infectious disease
+eflornithine,P11926,promiscuous,4953,ODC1,NA,NA,NA
+talampanel,P42261,promiscuous,2890,GRIA1,Phase 2,glutamate receptor antagonist,NA
+talampanel,P42262,promiscuous,2891,GRIA2,Phase 2,glutamate receptor antagonist,NA
+talampanel,P42263,promiscuous,2892,GRIA3,Phase 2,glutamate receptor antagonist,NA
+talampanel,P48058,promiscuous,2893,GRIA4,Phase 2,glutamate receptor antagonist,NA
+eflornithine,P11926,promiscuous,4953,ODC1,Launched,ornithine decarboxylase inhibitor,dermatology
+gimatecan,Q9Y6L6,promiscuous,10599,SLCO1B1,NA,NA,NA
+tranilast,B2RXH2,promiscuous,390245,KDM4E,Launched,angiogenesis inhibitor,pulmonary
+tranilast,O00255,promiscuous,4221,MEN1,Launched,angiogenesis inhibitor,pulmonary
+tranilast,O15118,promiscuous,4864,NPC1,Launched,angiogenesis inhibitor,pulmonary
+tranilast,O60760,promiscuous,27306,HPGDS,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P00352,promiscuous,216,ALDH1A1,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P04637,promiscuous,7157,TP53,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P08684,promiscuous,1576,CYP3A4,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P14618,promiscuous,5315,PKM,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P15428,promiscuous,3248,HPGD,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P18054,promiscuous,239,ALOX12,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P19838,promiscuous,4790,NFKB1,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P27695,promiscuous,328,APEX1,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P28482,promiscuous,5594,MAPK1,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P40225,promiscuous,7066,THPO,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P51151,promiscuous,9367,RAB9A,Launched,angiogenesis inhibitor,pulmonary
+tranilast,Q01453,promiscuous,5376,PMP22,Launched,angiogenesis inhibitor,pulmonary
+tranilast,Q03164,promiscuous,4297,KMT2A,Launched,angiogenesis inhibitor,pulmonary
+tranilast,Q16637,promiscuous,6607,SMN2,Launched,angiogenesis inhibitor,pulmonary
+tranilast,Q16665,promiscuous,3091,HIF1A,Launched,angiogenesis inhibitor,pulmonary
+tranilast,Q6W5P4,promiscuous,387129,NPSR1,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P11712,promiscuous,1559,CYP2C9,Launched,angiogenesis inhibitor,pulmonary
+regorafenib,P00519,promiscuous,25,ABL1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P04049,promiscuous,5894,RAF1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P04629,promiscuous,4914,NTRK1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P07949,promiscuous,5979,RET,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P09619,promiscuous,5159,PDGFRB,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P10721,promiscuous,3815,KIT,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P11362,promiscuous,2260,FGFR1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P15056,promiscuous,673,BRAF,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P16234,promiscuous,5156,PDGFRA,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P17948,promiscuous,2321,FLT1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P21802,promiscuous,2263,FGFR2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P23415,promiscuous,2741,GLRA1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P29317,promiscuous,1969,EPHA2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P34913,promiscuous,2053,EPHX2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P35916,promiscuous,2324,FLT4,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P35968,promiscuous,3791,KDR,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P42685,promiscuous,2444,FRK,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q02763,promiscuous,7010,TEK,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q15759,promiscuous,5600,MAPK11,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q16832,promiscuous,4921,DDR2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P08684,promiscuous,1576,CYP3A4,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,O60656,promiscuous,54600,UGT1A9,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P10632,promiscuous,1558,CYP2C8,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P11712,promiscuous,1559,CYP2C9,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P20813,promiscuous,1555,CYP2B6,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P22309,promiscuous,54658,UGT1A1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P08183,promiscuous,5243,ABCB1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q9UNQ0,promiscuous,9429,ABCG2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+cannabidiol,O43497,promiscuous,8913,CACNA1G,NA,NA,NA
+cannabidiol,O75311,promiscuous,8001,GLRA3,NA,NA,NA
+cannabidiol,O75762,promiscuous,8989,TRPA1,NA,NA,NA
+cannabidiol,O95180,promiscuous,8912,CACNA1H,NA,NA,NA
+cannabidiol,P08908,promiscuous,3350,HTR1A,NA,NA,NA
+cannabidiol,P21554,promiscuous,1268,CNR1,NA,NA,NA
+cannabidiol,P21796,promiscuous,7416,VDAC1,NA,NA,NA
+cannabidiol,P23415,promiscuous,2741,GLRA1,NA,NA,NA
+cannabidiol,P28223,promiscuous,3356,HTR2A,NA,NA,NA
+cannabidiol,P30542,promiscuous,134,ADORA1,NA,NA,NA
+cannabidiol,P34972,promiscuous,1269,CNR2,NA,NA,NA
+cannabidiol,P35372,promiscuous,4988,OPRM1,NA,NA,NA
+cannabidiol,P36544,promiscuous,1139,CHRNA7,NA,NA,NA
+cannabidiol,P37231,promiscuous,5468,PPARG,NA,NA,NA
+cannabidiol,P41143,promiscuous,4985,OPRD1,NA,NA,NA
+cannabidiol,P46098,promiscuous,3359,HTR3A,NA,NA,NA
+cannabidiol,P47775,promiscuous,2835,GPR12,NA,NA,NA
+cannabidiol,P48167,promiscuous,2743,GLRB,NA,NA,NA
+cannabidiol,Q14330,promiscuous,2841,GPR18,NA,NA,NA
+cannabidiol,Q7Z2W7,promiscuous,79054,TRPM8,NA,NA,NA
+cannabidiol,Q8NER1,promiscuous,7442,TRPV1,NA,NA,NA
+cannabidiol,Q8NET8,promiscuous,162514,TRPV3,NA,NA,NA
+cannabidiol,Q9HBA0,promiscuous,59341,TRPV4,NA,NA,NA
+cannabidiol,Q9P0X4,promiscuous,8911,CACNA1I,NA,NA,NA
+cannabidiol,Q9Y2T6,promiscuous,9290,GPR55,NA,NA,NA
+cannabidiol,Q9Y5S1,promiscuous,51393,TRPV2,NA,NA,NA
+cannabidiol,P11712,promiscuous,1559,CYP2C9,NA,NA,NA
+cannabidiol,P33261,promiscuous,1557,CYP2C19,NA,NA,NA
+cannabidiol,P10635,promiscuous,1565,CYP2D6,NA,NA,NA
+cannabidiol,P08684,promiscuous,1576,CYP3A4,NA,NA,NA
+cannabidiol,P20815,promiscuous,1577,CYP3A5,NA,NA,NA
+cannabidiol,P24752,promiscuous,38,ACAT1,NA,NA,NA
+cannabidiol,P04040,promiscuous,847,CAT,NA,NA,NA
+cannabidiol,P23219,promiscuous,5742,PTGS1,NA,NA,NA
+cannabidiol,P35354,promiscuous,5743,PTGS2,NA,NA,NA
+cannabidiol,P24462,promiscuous,1551,CYP3A7,NA,NA,NA
+cannabidiol,P04798,promiscuous,1543,CYP1A1,NA,NA,NA
+cannabidiol,P05177,promiscuous,1544,CYP1A2,NA,NA,NA
+cannabidiol,Q16678,promiscuous,1545,CYP1B1,NA,NA,NA
+cannabidiol,O00519,promiscuous,2166,FAAH,NA,NA,NA
+cannabidiol,P00390,promiscuous,2936,GSR,NA,NA,NA
+cannabidiol,P07203,promiscuous,2876,GPX1,NA,NA,NA
+cannabidiol,P04035,promiscuous,3156,HMGCR,NA,NA,NA
+cannabidiol,P14902,promiscuous,3620,IDO1,NA,NA,NA
+cannabidiol,P09917,promiscuous,240,ALOX5,NA,NA,NA
+cannabidiol,P16050,promiscuous,246,ALOX15,NA,NA,NA
+cannabidiol,Q02083,promiscuous,27163,NAAA,NA,NA,NA
+cannabidiol,Q08257,promiscuous,1429,CRYZ,NA,NA,NA
+cannabidiol,Q6IQ20,promiscuous,222236,NAPEPLD,NA,NA,NA
+cannabidiol,P04054,promiscuous,5319,PLA2G1B,NA,NA,NA
+cannabidiol,P05093,promiscuous,1586,CYP17A1,NA,NA,NA
+cannabidiol,P00441,promiscuous,6647,SOD1,NA,NA,NA
+cannabidiol,P17405,promiscuous,6609,SMPD1,NA,NA,NA
+cannabidiol,P33527,promiscuous,4363,ABCC1,NA,NA,NA
+cannabidiol,Q9UNQ0,promiscuous,9429,ABCG2,NA,NA,NA
+cannabidiol,Q99808,promiscuous,2030,SLC29A1,NA,NA,NA
+marizomib,P20618,promiscuous,5689,PSMB1,NA,NA,NA
+marizomib,P28074,promiscuous,5693,PSMB5,NA,NA,NA
+marizomib,P49721,promiscuous,5690,PSMB2,NA,NA,NA
+cilengitide,P05106,promiscuous,3690,ITGB3,Phase 3,integrin antagonist,NA
+cilengitide,P05556,promiscuous,3688,ITGB1,Phase 3,integrin antagonist,NA
+cilengitide,P06756,promiscuous,3685,ITGAV,Phase 3,integrin antagonist,NA
+cilengitide,P08514,promiscuous,3674,ITGA2B,Phase 3,integrin antagonist,NA
+cilengitide,P08648,promiscuous,3678,ITGA5,Phase 3,integrin antagonist,NA
+cilengitide,P18084,promiscuous,3693,ITGB5,Phase 3,integrin antagonist,NA
+cilengitide,P18564,promiscuous,3694,ITGB6,Phase 3,integrin antagonist,NA
+galunisertib,O43353,promiscuous,8767,RIPK2,NA,NA,NA
+galunisertib,P35968,promiscuous,3791,KDR,NA,NA,NA
+galunisertib,P36896,promiscuous,91,ACVR1B,NA,NA,NA
+galunisertib,P36897,promiscuous,7046,TGFBR1,NA,NA,NA
+galunisertib,Q16539,promiscuous,1432,MAPK14,NA,NA,NA
+larotrectinib,P04629,promiscuous,4914,NTRK1,Launched,tropomyosin receptor kinase inhibitor,NA
+larotrectinib,Q16288,promiscuous,4916,NTRK3,Launched,tropomyosin receptor kinase inhibitor,NA
+larotrectinib,Q16620,promiscuous,4915,NTRK2,Launched,tropomyosin receptor kinase inhibitor,NA
+larotrectinib,P08684,promiscuous,1576,CYP3A4,Launched,tropomyosin receptor kinase inhibitor,NA
+altiratinib,P04629,promiscuous,4914,NTRK1,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+altiratinib,P08581,promiscuous,4233,MET,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+altiratinib,Q02763,promiscuous,7010,TEK,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+altiratinib,Q16288,promiscuous,4916,NTRK3,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+altiratinib,Q16620,promiscuous,4915,NTRK2,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+altiratinib,P35968,RepurpusingHub,3791,KDR,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+altiratinib,P08581,RepurpusingHub,4233,MET,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+altiratinib,Q02763,RepurpusingHub,7010,TEK,Phase 1,MET inhibitor|VEGFR inhibitor,NA
+cilengitide,P06756,RepurpusingHub,3685,ITGAV,Phase 3,integrin antagonist,NA
+cilengitide,P05106,RepurpusingHub,3690,ITGB3,Phase 3,integrin antagonist,NA
+eflornithine,P78540,RepurpusingHub,384,ARG2,Launched,ornithine decarboxylase inhibitor,dermatology
+eflornithine,P11926,RepurpusingHub,4953,ODC1,Launched,ornithine decarboxylase inhibitor,dermatology
+erlotinib,P00533,RepurpusingHub,1956,EGFR,Launched,EGFR inhibitor,oncology
+erlotinib,O75469,RepurpusingHub,8856,NR1I2,Launched,EGFR inhibitor,oncology
+flucytosine,P26358,RepurpusingHub,1786,DNMT1,Launched,other antifungal,infectious disease
+larotrectinib,P04629,RepurpusingHub,4914,NTRK1,Launched,tropomyosin receptor kinase inhibitor,NA
+larotrectinib,Q16620,RepurpusingHub,4915,NTRK2,Launched,tropomyosin receptor kinase inhibitor,NA
+larotrectinib,Q16288,RepurpusingHub,4916,NTRK3,Launched,tropomyosin receptor kinase inhibitor,NA
+regorafenib,P00519,RepurpusingHub,25,ABL1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P15056,RepurpusingHub,673,BRAF,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q16832,RepurpusingHub,4921,DDR2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P29317,RepurpusingHub,1969,EPHA2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P11362,RepurpusingHub,2260,FGFR1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P21802,RepurpusingHub,2263,FGFR2,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P17948,RepurpusingHub,2321,FLT1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P35916,RepurpusingHub,2324,FLT4,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P42685,RepurpusingHub,2444,FRK,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P35968,RepurpusingHub,3791,KDR,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P10721,RepurpusingHub,3815,KIT,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q15759,RepurpusingHub,5600,MAPK11,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P04629,RepurpusingHub,4914,NTRK1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P16234,RepurpusingHub,5156,PDGFRA,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P09619,RepurpusingHub,5159,PDGFRB,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P04049,RepurpusingHub,5894,RAF1,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,P07949,RepurpusingHub,5979,RET,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+regorafenib,Q02763,RepurpusingHub,7010,TEK,Launched,FGFR inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,oncology
+talampanel,P42261,RepurpusingHub,2890,GRIA1,Phase 2,glutamate receptor antagonist,NA
+talampanel,P42262,RepurpusingHub,2891,GRIA2,Phase 2,glutamate receptor antagonist,NA
+talampanel,P42263,RepurpusingHub,2892,GRIA3,Phase 2,glutamate receptor antagonist,NA
+talampanel,P48058,RepurpusingHub,2893,GRIA4,Phase 2,glutamate receptor antagonist,NA
+tranilast,O60760,RepurpusingHub,27306,HPGDS,Launched,angiogenesis inhibitor,pulmonary
+tranilast,P35367,RepurpusingHub,3269,HRH1,Launched,angiogenesis inhibitor,pulmonary
+fluorouracil,Q12882,RepurpusingHub,1806,DPYD,Launched,thymidylate synthase inhibitor,oncology
+fluorouracil,P04818,RepurpusingHub,7298,TYMS,Launched,thymidylate synthase inhibitor,oncology
+trametinib-dabrafenib,P05177,DrugBank,1544,CYP1A2,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P11712,DrugBank,1559,CYP2C9,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P08183,DrugBank,5243,ABCB1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P08684,DrugBank,1576,CYP3A4,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P08684,DrugBank,1576,CYP3A4,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P33261,DrugBank,1557,CYP2C19,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q4U2R8,DrugBank,9356,SLC22A6,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q9UNQ0,DrugBank,9429,ABCG2,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q9Y6L6,DrugBank,10599,SLCO1B1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q9NPD5,DrugBank,28234,SLCO1B3,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q8TCC7,DrugBank,9376,SLC22A8,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P10632,DrugBank,1558,CYP2C8,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P10632,DrugBank,1558,CYP2C8,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P20813,DrugBank,1555,CYP2B6,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P15056,DrugBank,673,BRAF,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P04049,DrugBank,5894,RAF1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q02750,DrugBank,5604,MAP2K1,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P36507,DrugBank,5605,MAP2K2,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P57059,DrugBank,150094,SIK1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q8NG66,DrugBank,79858,NEK11,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P53667,DrugBank,3984,LIMK1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P36507,promiscuous,5605,MAP2K2,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,Q02750,promiscuous,5604,MAP2K1,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P10632,promiscuous,1558,CYP2C8,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P08684,promiscuous,1576,CYP3A4,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P04049,promiscuous,5894,RAF1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P10398,promiscuous,369,ARAF,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P15056,promiscuous,673,BRAF,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P36897,promiscuous,7046,TGFBR1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P53667,promiscuous,3984,LIMK1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P57059,promiscuous,150094,SIK1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q8NG66,promiscuous,79858,NEK11,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P08684,promiscuous,1576,CYP3A4,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P10632,promiscuous,1558,CYP2C8,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P20813,promiscuous,1555,CYP2B6,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P11712,promiscuous,1559,CYP2C9,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P08183,promiscuous,5243,ABCB1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q9UNQ0,promiscuous,9429,ABCG2,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q9Y6L6,promiscuous,10599,SLCO1B1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q9NPD5,promiscuous,28234,SLCO1B3,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q4U2R8,promiscuous,9356,SLC22A6,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q8TCC7,promiscuous,9376,SLC22A8,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P15056,RepurpusingHub,673,BRAF,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P53667,RepurpusingHub,3984,LIMK1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q8NG66,RepurpusingHub,79858,NEK11,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P04049,RepurpusingHub,5894,RAF1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,P57059,RepurpusingHub,150094,SIK1,Launched,RAF inhibitor,oncology
+trametinib-dabrafenib,Q02750,RepurpusingHub,5604,MAP2K1,Launched,MEK inhibitor,oncology
+trametinib-dabrafenib,P36507,RepurpusingHub,5605,MAP2K2,Launched,MEK inhibitor,oncology
+PCV combination,P10635,DrugBank,1565,CYP2D6,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+PCV combination,P08183,DrugBank,5243,ABCB1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P08684,DrugBank,1576,CYP3A4,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P08684,DrugBank,1576,CYP3A4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+PCV combination,P47989,DrugBank,7498,XDH,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,Q92887,DrugBank,1244,ABCC2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P20815,DrugBank,1577,CYP3A5,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,O95342,DrugBank,8647,ABCB11,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q5T3U5,DrugBank,89845,ABCC10,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9UNQ0,DrugBank,9429,ABCG2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9Y6L6,DrugBank,10599,SLCO1B1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9NPD5,DrugBank,28234,SLCO1B3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P33527,DrugBank,4363,ABCC1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,O75751,DrugBank,6581,SLC22A3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,O15438,DrugBank,8714,ABCC3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P24462,DrugBank,1551,CYP3A7,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P07437,DrugBank,203068,TUBB,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q15311,DrugBank,10928,RALBP1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P68366,DrugBank,7277,TUBA4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9H169,DrugBank,81551,STMN4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+PCV combination,O15118,promiscuous,4864,NPC1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P02545,promiscuous,4000,LMNA,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P04350,promiscuous,10382,TUBB4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P07437,promiscuous,203068,TUBB,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P08183,promiscuous,5243,ABCB1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P10253,promiscuous,2548,GAA,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P10636,promiscuous,4137,MAPT,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P33527,promiscuous,4363,ABCC1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P42858,promiscuous,3064,HTT,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P51151,promiscuous,9367,RAB9A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P68363,promiscuous,10376,TUBA1B,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P68366,promiscuous,7277,TUBA4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P68371,promiscuous,10383,TUBB4B,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q13509,promiscuous,10381,TUBB3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q13748,promiscuous,7278,TUBA3C,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q13748,promiscuous,113457,TUBA3D,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q13885,promiscuous,7280,TUBB2A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q16665,promiscuous,3091,HIF1A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q3ZCM7,promiscuous,347688,TUBB8,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q6PEY2,promiscuous,112714,TUBA3E,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q71U36,promiscuous,7846,TUBA1A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q92887,promiscuous,1244,ABCC2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9BQE3,promiscuous,84790,TUBA1C,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9BUF5,promiscuous,84617,TUBB6,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9BVA1,promiscuous,347733,TUBB2B,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9H4B7,promiscuous,81027,TUBB1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9NPD5,promiscuous,28234,SLCO1B3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9Y6L6,promiscuous,10599,SLCO1B1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P20815,promiscuous,1577,CYP3A5,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P24462,promiscuous,1551,CYP3A7,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P08684,promiscuous,1576,CYP3A4,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,O15438,promiscuous,8714,ABCC3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,O75751,promiscuous,6581,SLC22A3,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q5T3U5,promiscuous,89845,ABCC10,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,O95342,promiscuous,8647,ABCB11,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q9UNQ0,promiscuous,9429,ABCG2,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,Q15311,promiscuous,10928,RALBP1,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P00352,promiscuous,216,ALDH1A1,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,P02545,promiscuous,4000,LMNA,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,P05177,promiscuous,1544,CYP1A2,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,P16050,promiscuous,246,ALOX15,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,P27338,promiscuous,4129,MAOB,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,P33261,promiscuous,1557,CYP2C19,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,P47989,promiscuous,7498,XDH,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,Q16678,promiscuous,1545,CYP1B1,Launched,monoamine oxidase inhibitor,hematologic malignancy
+PCV combination,Q9H169,promiscuous,81551,STMN4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+PCV combination,P08684,promiscuous,1576,CYP3A4,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+PCV combination,P10635,promiscuous,1565,CYP2D6,Launched,DNA synthesis inhibitor,hematologic malignancy|oncology
+PCV combination,P68366,RepurpusingHub,7277,TUBA4A,Launched,tubulin polymerization inhibitor,hematologic malignancy
+PCV combination,P07437,RepurpusingHub,203068,TUBB,Launched,tubulin polymerization inhibitor,hematologic malignancy
