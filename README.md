@@ -16,9 +16,6 @@
 
 ## PCA of the expression data for the three subtypes
 > Preprocess_TCGA.R
-> Jaccard_Similarity.m
-> Merge_metabolic_genes.m
-
 ## Model Building ##
 ### Generate a consistent Human 1 model
 > Get_Consistent_Human1.m
