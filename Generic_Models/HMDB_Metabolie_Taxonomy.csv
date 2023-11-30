@@ -1,0 +1,446 @@
+metHMDBID,VMH_ID,Name,super_class,class,sub_class,molecular_framework
+HMDB0000001,NA,1-Methylhistidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic heteromonocyclic compounds
+HMDB0000005,2OBUT,2-Ketobutyric acid,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000008,NA,2-Hydroxybutyric acid,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000011,BHB,3-Hydroxybutyric acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000012,DURI,Deoxyuridine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,Aromatic heteromonocyclic compounds
+HMDB0000017,4PYRDX,4-Pyridoxic acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Aromatic heteromonocyclic compounds
+HMDB0000019,3MOB,alpha-Ketoisovaleric acid,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000020,4HPHAC,p-Hydroxyphenylacetic acid,Benzenoids,Phenols,1-hydroxy-2-unsubstituted benzenoids,Aromatic homomonocyclic compounds
+HMDB0000022,3MOXTYR,3-Methoxytyramine,Benzenoids,Phenols,Methoxyphenols,Aromatic homomonocyclic compounds
+HMDB0000023,3HMP,(S)-3-Hydroxyisobutyric acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000026,NA,Ureidopropionic acid,Organic acids and derivatives,Organic carbonic acids and derivatives,Ureas,Aliphatic acyclic compounds
+HMDB0000027,NA,Tetrahydrobiopterin,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000030,BTN,Biotin,Organoheterocyclic compounds,Biotin and derivatives,NA,Aliphatic heteropolycyclic compounds
+HMDB0000031,ANDRSTRN,Androsterone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,Aliphatic homopolycyclic compounds
+HMDB0000032,7DHCHSTEROL,7-Dehydrocholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,Aliphatic homopolycyclic compounds
+HMDB0000034,ADE,Adenine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0000038,CE2705,Dihydrobiopterin,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000039,BUT,Butyric acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000042,AC,Acetic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acids,Aliphatic acyclic compounds
+HMDB0000044,NA,Ascorbic acid,Organoheterocyclic compounds,Dihydrofurans,Furanones,Aliphatic heteromonocyclic compounds
+HMDB0000045,AMP,Adenosine monophosphate,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Aromatic heteropolycyclic compounds
+HMDB0000050,ADN,Adenosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,Aromatic heteropolycyclic compounds
+HMDB0000051,NH4,Ammonia,Homogeneous non-metal compounds,Homogeneous other non-metal compounds,NA,NA
+HMDB0000053,ANDRSTNDN,Androstenedione,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,Aliphatic homopolycyclic compounds
+HMDB0000054,BILIRUB,Bilirubin,Organoheterocyclic compounds,Tetrapyrroles and derivatives,Bilirubins,Aromatic heteromonocyclic compounds
+HMDB0000056,ALA_B,beta-Alanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000058,CAMP,Cyclic AMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Cyclic purine nucleotides,Aromatic heteropolycyclic compounds
+HMDB0000060,ACAC,Acetoacetic acid,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000062,CRN,L-Carnitine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Aliphatic acyclic compounds
+HMDB0000063,NA,Cortisol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Hydroxysteroids,Aliphatic homopolycyclic compounds
+HMDB0000064,CREAT,Creatine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000067,CHSTEROL,Cholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,Aliphatic homopolycyclic compounds
+HMDB0000068,ADRNL,Epinephrine,Benzenoids,Phenols,Benzenediols,Aromatic homomonocyclic compounds
+HMDB0000070,NA,Pipecolic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic heteromonocyclic compounds
+HMDB0000072,HC00342,cis-Aconitic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000073,DOPA,Dopamine,Benzenoids,Phenols,Benzenediols,Aromatic homomonocyclic compounds
+HMDB0000076,56DURA,Dihydrouracil,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aliphatic heteromonocyclic compounds
+HMDB0000077,DHEA,Dehydroepiandrosterone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,Aliphatic homopolycyclic compounds
+HMDB0000078,CGLY,Cysteinylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000079,NA,Dihydrothymine,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aliphatic heteromonocyclic compounds
+HMDB0000086,G3PC,Glycerophosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Aliphatic acyclic compounds
+HMDB0000087,DMA,Dimethylamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0000089,CYTD,Cytidine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,Aromatic heteromonocyclic compounds
+HMDB0000094,CIT,Citric acid,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000097,CHOL,Choline,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Aliphatic acyclic compounds
+HMDB0000099,CYST_L,L-Cystathionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000107,GALT,Galactitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000108,ETOH,Ethanol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Aliphatic acyclic compounds
+HMDB0000112,4ABUT,gamma-Aminobutyric acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000115,GLYCLT,Glycolic acid,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000118,HOMOVAL,Homovanillic acid,Benzenoids,Phenols,Methoxyphenols,Aromatic homomonocyclic compounds
+HMDB0000119,GLX,Glyoxylic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acids,Aliphatic acyclic compounds
+HMDB0000121,FOL,Folic acid,Benzenoids,Phenols,Methoxyphenols,Aromatic homomonocyclic compounds
+HMDB0000122,NA,D-Glucose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000123,GLY,Glycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000125,GTHRD,Glutathione,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000128,GUDAC,Guanidoacetic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000131,GLYC,Glycerol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000134,FUM,Fumaric acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000139,GLYC_R,Glyceric acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000142,FOR,Formic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acids,Aliphatic acyclic compounds
+HMDB0000143,GAL,D-Galactose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000148,GLU_L,L-Glutamic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000149,ETHA,Ethanolamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0000151,ESTRADIOL,Estradiol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Estrane steroids,Aromatic homopolycyclic compounds
+HMDB0000156,MAL_L,Malic acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000157,HXAN,Hypoxanthine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0000158,TYR_L,L-Tyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic homomonocyclic compounds
+HMDB0000159,PHE_L,L-Phenylalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic homomonocyclic compounds
+HMDB0000161,ALA_L,L-Alanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000162,PRO_L,L-Proline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic heteromonocyclic compounds
+HMDB0000167,THR_L,L-Threonine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000168,ASN_L,L-Asparagine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000169,MAN,D-Mannose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000172,ILE_L,L-Isoleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000175,IMP,Inosinic acid,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Aromatic heteropolycyclic compounds
+HMDB0000177,HIS_L,L-Histidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic heteromonocyclic compounds
+HMDB0000181,34DHPHE,L-Dopa,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic homomonocyclic compounds
+HMDB0000182,LYS_L,L-Lysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000187,SER_L,L-Serine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000190,LAC_L,L-Lactic acid,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000191,ASP_L,L-Aspartic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000192,LCYSTIN,L-Cystine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000193,ICIT,Isocitric acid,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000195,INS,Inosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,Aromatic heteropolycyclic compounds
+HMDB0000197,IND3AC,Indoleacetic acid,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000201,NA,L-Acetylcarnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Aliphatic acyclic compounds
+HMDB0000202,HC00900,Methylmalonic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000207,OCDCEA,Oleic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000208,AKG,Oxoglutaric acid,Organic acids and derivatives,Keto acids and derivatives,Gamma-keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000209,PAC,Phenylacetic acid,Benzenoids,Benzene and substituted derivatives,NA,Aromatic homomonocyclic compounds
+HMDB0000210,PNTO_R,Pantothenic acid,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Aliphatic acyclic compounds
+HMDB0000211,INOST,myo-Inositol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Aliphatic homomonocyclic compounds
+HMDB0000214,ORN,Ornithine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000216,NRPPHR,Norepinephrine,Benzenoids,Phenols,Benzenediols,Aromatic homomonocyclic compounds
+HMDB0000220,HDCA,Palmitic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000223,OAA,Oxalacetic acid,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000224,ETHAMP,O-Phosphoethanolamine,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,Aliphatic acyclic compounds
+HMDB0000230,ACNAM,N-Acetylneuraminic acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000232,QULN,Quinolinic acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Aromatic heteromonocyclic compounds
+HMDB0000234,TSTSTERONE,Testosterone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,Aliphatic homopolycyclic compounds
+HMDB0000235,THM,Thiamine,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aromatic heteromonocyclic compounds
+HMDB0000237,PPA,Propionic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acids,Aliphatic acyclic compounds
+HMDB0000238,NA,Sepiapterin,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000239,PYDXN,Pyridoxine,Organoheterocyclic compounds,Pyridines and derivatives,Pyridoxines,Aromatic heteromonocyclic compounds
+HMDB0000243,PYR,Pyruvic acid,Organic acids and derivatives,Keto acids and derivatives,Alpha-keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000244,RIBFLV,Riboflavin,Organoheterocyclic compounds,Pteridines and derivatives,Alloxazines and isoalloxazines,Aromatic heteropolycyclic compounds
+HMDB0000247,SBT_D,Sorbitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000251,TAUR,Taurine,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000253,PRGNLONE,Pregnenolone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Pregnane steroids,Aliphatic homopolycyclic compounds
+HMDB0000254,SUCC,Succinic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000259,SRTN,Serotonin,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000262,THYM,Thymine,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aromatic heteromonocyclic compounds
+HMDB0000267,5OXPRO,Pyroglutamic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic heteromonocyclic compounds
+HMDB0000271,SARCS,Sarcosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000272,PSER_L,Phosphoserine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000273,THYMD,Thymidine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,Aromatic heteromonocyclic compounds
+HMDB0000283,RIB_D,D-Ribose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000289,URATE,Uric acid,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0000292,XAN,Xanthine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0000294,UREA,Urea,Organic acids and derivatives,Organic carbonic acids and derivatives,Ureas,Aliphatic acyclic compounds
+HMDB0000296,URI,Uridine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,Aromatic heteromonocyclic compounds
+HMDB0000300,URA,Uracil,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aromatic heteromonocyclic compounds
+HMDB0000317,NA,2-Hydroxy-3-methylpentanoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000318,34DHOXPEG,"3,4-Dihydroxyphenylglycol",Benzenoids,Phenols,Benzenediols,Aromatic homomonocyclic compounds
+HMDB0000336,NA,(R)-3-Hydroxyisobutyric acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000337,NA,"(S)-3,4-Dihydroxybutyric acid",Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000360,NA,"2,4-Dihydroxybutanoic acid",Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000379,2MCIT,2-Methylcitric acid,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000407,NA,2-Hydroxy-3-methylbutyric acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000428,NA,3-Hydroxyglutaric acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000440,3HPHAC,3-Hydroxyphenylacetic acid,Benzenoids,Phenols,1-hydroxy-4-unsubstituted benzenoids,Aromatic homomonocyclic compounds
+HMDB0000448,ADPAC,Adipic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000450,PCOLLG5HLYS,5-Hydroxylysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000452,C02356,L-alpha-Aminobutyric acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000462,ALLTN,Allantoin,Organoheterocyclic compounds,Azoles,Imidazoles,Aliphatic heteromonocyclic compounds
+HMDB0000464,CA2,Calcium,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds,NA,NA
+HMDB0000468,NA,Biopterin,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000472,5HTRP,5-Hydroxy-L-tryptophan,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000479,3MHIS,3-Methylhistidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic heteromonocyclic compounds
+HMDB0000482,OCTA,Caprylic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000491,NA,3-Methyl-2-oxovaleric acid,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000492,CL,Chloride ion,Homogeneous non-metal compounds,Homogeneous halogens,NA,NA
+HMDB0000500,4HBZ,4-Hydroxybenzoic acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Aromatic homomonocyclic compounds
+HMDB0000501,NA,7-Ketocholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,Aliphatic homopolycyclic compounds
+HMDB0000508,RBT,Ribitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000517,ARG_L,L-Arginine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000522,NA,3-Methylglutaconic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000531,NA,3-Hydroxyvaleric acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000535,NA,Caproic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000538,ATP,Adenosine triphosphate,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Aromatic heteropolycyclic compounds
+HMDB0000547,MG2,Magnesium,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds,NA,NA
+HMDB0000557,NA,L-Alloisoleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000562,CRTN,Creatinine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic heteromonocyclic compounds
+HMDB0000568,ABT_D,D-Arabitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000574,CYS_L,L-Cysteine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000586,K,Potassium,Homogeneous metal compounds,Homogeneous alkali metal compounds,NA,NA
+HMDB0000588,NA1,Sodium,Homogeneous metal compounds,Homogeneous alkali metal compounds,NA,NA
+HMDB0000595,HCO3,Hydrogen carbonate,Organic acids and derivatives,Organic carbonic acids and derivatives,Organic carbonic acids,Aliphatic acyclic compounds
+HMDB0000599,NA,Chromium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0000606,NA,D-2-Hydroxyglutaric acid,Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000607,NA,Cyanocobalamin,Organoheterocyclic compounds,Tetrapyrroles and derivatives,Corrinoids,Aromatic heteropolycyclic compounds
+HMDB0000608,COBALT2,Cobalt,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0000613,NA,Erythronic acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000622,ETHMALAC,Ethylmalonic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000638,DDCA,Dodecanoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000641,GLN_L,L-Glutamine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000646,ARAB_L,L-Arabinose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000657,CU2,Copper,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0000660,FRU,D-Fructose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000661,GLUTAR,Glutaric acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000670,NA,Homo-L-arginine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000673,LNLC,Linoleic acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000675,IODINE,Iodine,Homogeneous non-metal compounds,Homogeneous halogens,NA,NA
+HMDB0000676,LHCYSTIN,L-Homocystine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000684,LKYNR,L-Kynurenine,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aromatic homomonocyclic compounds
+HMDB0000687,LEU_L,L-Leucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000691,HC00319,Malonic acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds
+HMDB0000692,NA,Fe2+,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0000694,NA,L-2-Hydroxyglutaric acid,Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000695,4MOP,Ketoleucine,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0000696,MET_L,L-Methionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000700,3HPP,Hydroxypropionic acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0000710,4HDXBUTN,4-Hydroxybutyric acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000714,BGLY,Hippuric acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Aromatic homomonocyclic compounds
+HMDB0000715,KYNATE,Kynurenic acid,Organoheterocyclic compounds,Quinolines and derivatives,Quinoline carboxylic acids,Aromatic heteropolycyclic compounds
+HMDB0000718,ISOVAL,Isovaleric acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000721,GLYPRO,Glycylproline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic heteromonocyclic compounds
+HMDB0000725,4HPRO_LT,4-Hydroxyproline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic heteromonocyclic compounds
+HMDB0000742,HCYS_L,Homocysteine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000745,HC00576,Homocarnosine,Organic acids and derivatives,Peptidomimetics,Hybrid peptides,Aromatic heteromonocyclic compounds
+HMDB0000746,NA,Hydroxyisocaproic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000751,XYLU_L,L-Xylulose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0000754,3HIVAC,3-Hydroxyisovaleric acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000755,34HPL,Hydroxyphenyllactic acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,NA,Aromatic homomonocyclic compounds
+HMDB0000763,5HOXINDOA,5-Hydroxyindoleacetic acid,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000765,C01507,Mannitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0000784,C08261,Azelaic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000797,25AICS,SAICAR,"Nucleosides, nucleotides, and analogues",Imidazole ribonucleosides and ribonucleotides,1-ribosyl-imidazolecarboxamides,Aromatic heteromonocyclic compounds
+HMDB0000806,TTDCA,Myristic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000812,NACASP,N-Acetyl-L-aspartic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000819,NORMETE_L,Normetanephrine,Benzenoids,Phenols,Methoxyphenols,Aromatic homomonocyclic compounds
+HMDB0000824,PCRN,Propionylcarnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Aliphatic acyclic compounds
+HMDB0000827,OCDCA,Stearic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000830,NA,Neuraminic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Aliphatic acyclic compounds
+HMDB0000845,NA,Neopterin,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000863,NA,Isopropyl alcohol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Aliphatic acyclic compounds
+HMDB0000870,HISTA,Histamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aromatic heteromonocyclic compounds
+HMDB0000883,VAL_L,L-Valine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000893,SUBEAC,Suberic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0000895,ACH,Acetylcholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Aliphatic acyclic compounds
+HMDB0000898,MHISTA,1-Methylhistamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aromatic heteromonocyclic compounds
+HMDB0000904,CITR_L,Citrulline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0000906,M03053,Trimethylamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0000912,NA,Succinyladenosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,Aromatic heteropolycyclic compounds
+HMDB0000929,TRP_L,L-Tryptophan,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Aromatic heteropolycyclic compounds
+HMDB0000939,AHCYS,S-Adenosylhomocysteine,Organoheterocyclic compounds,Lactones,Gamma butyrolactones,Aliphatic heteromonocyclic compounds
+HMDB0000990,ACALD,Acetaldehyde,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aliphatic acyclic compounds
+HMDB0000996,3SALA,3-Sulfinoalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0001035,NA,Angiotensin II,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic heteromonocyclic compounds
+HMDB0001043,ARACHD,Arachidonic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0001046,NA,Cotinine,Organoheterocyclic compounds,Pyridines and derivatives,Pyrrolidinylpyridines,Aromatic heteromonocyclic compounds
+HMDB0001067,NA,N-Acetylaspartylglutamic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0001085,LEUKTRB4,Leukotriene B4,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0001123,ANTH,2-Aminobenzoic acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Aromatic homomonocyclic compounds
+HMDB0001139,PROSTGF2,Prostaglandin F2a,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic homomonocyclic compounds
+HMDB0001185,AMET,S-Adenosylmethionine,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides,5'-deoxy-5'-thionucleosides,Aromatic heteropolycyclic compounds
+HMDB0001189,NA,2(N)-Methyl-norsalsolinol,Organoheterocyclic compounds,Tetrahydroisoquinolines,NA,Aromatic heteropolycyclic compounds
+HMDB0001198,LEUKTRC4,Leukotriene C4,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0001201,GDP,Guanosine diphosphate,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Aromatic heteropolycyclic compounds
+HMDB0001220,PROSTGE2,Prostaglandin E2,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic homomonocyclic compounds
+HMDB0001247,NA,Aluminum,Homogeneous metal compounds,Homogeneous post-transition metal compounds,NA,NA
+HMDB0001256,SPRM,Spermine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0001257,SPMD,Spermidine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0001259,SUCSAL,Succinic acid semialdehyde,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0001273,GTP,Guanosine triphosphate,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Aromatic heteropolycyclic compounds
+HMDB0001302,NA,Molybdenum,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0001310,ALA_D,D-Alanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0001311,LAC_D,D-Lactic acid,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Aliphatic acyclic compounds
+HMDB0001314,35CGMP,Cyclic GMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Cyclic purine nucleotides,Aromatic heteropolycyclic compounds
+HMDB0001315,NA,Phosphorus,Homogeneous non-metal compounds,Homogeneous other non-metal compounds,NA,NA
+HMDB0001325,TMLYS,"N6,N6,N6-Trimethyl-L-lysine",Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0001327,NA,Rubidium,Homogeneous metal compounds,Homogeneous alkali metal compounds,NA,NA
+HMDB0001333,NA,Manganese,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0001336,34DHPHA,"3,4-Dihydroxybenzeneacetic acid",Benzenoids,Phenols,Benzenediols,Aromatic homomonocyclic compounds
+HMDB0001341,ADP,ADP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Aromatic heteropolycyclic compounds
+HMDB0001348,NA,SM(d18:1/18:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0001349,NA,Selenium,Homogeneous non-metal compounds,Homogeneous other non-metal compounds,NA,NA
+HMDB0001355,NA,Parathion,Organic acids and derivatives,Organic thiophosphoric acids and derivatives,Thiophosphoric acid esters,Aromatic homomonocyclic compounds
+HMDB0001372,THMPP,Thiamine pyrophosphate,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aromatic heteromonocyclic compounds
+HMDB0001389,MELATN,Melatonin,Organoheterocyclic compounds,Indoles and derivatives,Indoles,Aromatic heteropolycyclic compounds
+HMDB0001396,5MTHF,5-Methyltetrahydrofolic acid,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,Aromatic heteropolycyclic compounds
+HMDB0001403,PROSTGD2,Prostaglandin D2,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic homomonocyclic compounds
+HMDB0001414,PTRC,Putrescine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0001419,XOL24OH,24-Hydroxycholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Aliphatic homopolycyclic compounds
+HMDB0001431,PYDAM,Pyridoxamine,Organoheterocyclic compounds,Pyridines and derivatives,Pyridoxamines,Aromatic heteromonocyclic compounds
+HMDB0001432,AGM,Agmatine,Organic nitrogen compounds,Organonitrogen compounds,Guanidines,Aliphatic acyclic compounds
+HMDB0001434,NA,3-Methoxytyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic homomonocyclic compounds
+HMDB0001449,CE2211,Allopregnanolone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Pregnane steroids,Aliphatic homopolycyclic compounds
+HMDB0001452,TXA2,Thromboxane A2,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic heteropolycyclic compounds
+HMDB0001453,TCYNT,Thiocyanate,Organosulfur compounds,Thiocyanates,NA,Aliphatic acyclic compounds
+HMDB0001475,NA,Zirconium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0001478,NA,Gallium,Mixed metal/non-metal compounds,Miscellaneous mixed metal/non-metals,NA,NA
+HMDB0001488,NAC,Nicotinic acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Aromatic heteromonocyclic compounds
+HMDB0001490,NA,Vanylglycol,Benzenoids,Phenols,Methoxyphenols,Aromatic homomonocyclic compounds
+HMDB0001491,PYDX5P,Pyridoxal 5'-phosphate,Organoheterocyclic compounds,Pyridines and derivatives,Pyridine carboxaldehydes,Aromatic heteromonocyclic compounds
+HMDB0001496,XOL7A,7alpha-Hydroxycholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,Aliphatic homopolycyclic compounds
+HMDB0001509,LEUKTRB4WOH,20-Hydroxy-leukotriene B4,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0001522,NA,Methylguanidine,Organic nitrogen compounds,Organonitrogen compounds,Guanidines,Aliphatic acyclic compounds
+HMDB0001539,DMLARG,Asymmetric dimethylarginine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0001545,PYDX,Pyridoxal,Organoheterocyclic compounds,Pyridines and derivatives,Pyridine carboxaldehydes,Aromatic heteromonocyclic compounds
+HMDB0001565,CHOLP,Phosphorylcholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Aliphatic acyclic compounds
+HMDB0001644,XYLU_D,D-Xylulose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0001659,ACETONE,Acetone,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aliphatic acyclic compounds
+HMDB0001830,PRGSTRN,Progesterone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Pregnane steroids,Aliphatic homopolycyclic compounds
+HMDB0001842,M02035,Guanidine,Organic nitrogen compounds,Organonitrogen compounds,Guanidines,Aliphatic acyclic compounds
+HMDB0001847,NA,Caffeine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0001851,ABT,L-Arabitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0001855,CE1918,5-Hydroxytryptophol,Organoheterocyclic compounds,Indoles and derivatives,Hydroxyindoles,Aromatic heteropolycyclic compounds
+HMDB0001859,ACMP,Acetaminophen,Benzenoids,Phenols,1-hydroxy-2-unsubstituted benzenoids,Aromatic homomonocyclic compounds
+HMDB0001860,NA,Paraxanthine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0001873,ISOBUT,Isobutyric acid,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acids,Aliphatic acyclic compounds
+HMDB0001875,MEOH,Methanol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Aliphatic acyclic compounds
+HMDB0001881,12PPD_R,Propylene glycol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Aliphatic acyclic compounds
+HMDB0001889,NA,Theophylline,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0001893,AVITE1,alpha-Tocopherol,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,Aromatic heteropolycyclic compounds
+HMDB0001896,CE6205,5-Methoxytryptophol,Organoheterocyclic compounds,Indoles and derivatives,Indoles,Aromatic heteropolycyclic compounds
+HMDB0001897,NA,Substance P,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,Aromatic heteropolycyclic compounds
+HMDB0001904,NA,3-Nitrotyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic homomonocyclic compounds
+HMDB0001920,NA,Dextromethorphan,Alkaloids and derivatives,Morphinans,NA,Aromatic heteropolycyclic compounds
+HMDB0001925,IBUP_R,Ibuprofen,Phenylpropanoids and polyketides,Phenylpropanoic acids,NA,Aromatic homomonocyclic compounds
+HMDB0001929,NA,Levofloxacin,Organoheterocyclic compounds,Quinolines and derivatives,Quinoline carboxylic acids,Aromatic heteropolycyclic compounds
+HMDB0001959,NA,gamma-Aminobutyryllysine,Organic acids and derivatives,Peptidomimetics,Hybrid peptides,Aliphatic acyclic compounds
+HMDB0001960,NA,Tin,Mixed metal/non-metal compounds,Miscellaneous mixed metal/non-metals,NA,NA
+HMDB0001966,NA,Titanium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0001980,NA,Vasopressin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic heteromonocyclic compounds
+HMDB0001989,NA,Tungsten,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0002013,C4CRN,Butyrylcarnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Aliphatic acyclic compounds
+HMDB0002017,NA,1-Phenylethylamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aromatic homomonocyclic compounds
+HMDB0002024,IM4AC,Imidazoleacetic acid,Organoheterocyclic compounds,Azoles,Imidazoles,Aromatic heteromonocyclic compounds
+HMDB0002027,CE1297,8-Dehydrocholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,Aliphatic homopolycyclic compounds
+HMDB0002031,3UIB,Ureidoisobutyric acid,Organic acids and derivatives,Organic carbonic acids and derivatives,Ureas,Aliphatic acyclic compounds
+HMDB0002032,NA,8-Hydroxyguanine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0002038,NA,N(6)-Methyllysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0002044,NA,8-Hydroxyguanosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,Aromatic heteropolycyclic compounds
+HMDB0002061,HA,Hyaluronic acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0002100,PMETH,Palmitoylethanolamide,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,Aliphatic acyclic compounds
+HMDB0002103,XOL27OH,27-Hydroxycholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Aliphatic homopolycyclic compounds
+HMDB0002111,H2O,Water,Homogeneous non-metal compounds,Homogeneous other non-metal compounds,NA,NA
+HMDB0002151,DMSO,Dimethyl sulfoxide,Organosulfur compounds,Sulfoxides,NA,Aliphatic acyclic compounds
+HMDB0002174,NA,Cobalamin,Organoheterocyclic compounds,Tetrapyrroles and derivatives,Corrinoids,Aromatic heteropolycyclic compounds
+HMDB0002175,NA,Silicon,Homogeneous metal compounds,Homogeneous metalloid compounds,NA,NA
+HMDB0002179,CE5643,Peroxynitrite,Homogeneous non-metal compounds,Non-metal oxoanionic compounds,Non-metal peroxynitrites,NA
+HMDB0002183,CRVNC,Docosahexaenoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0002200,LEUKTRE4,Leukotriene E4,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0002243,C10164,Picolinic acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Aromatic heteromonocyclic compounds
+HMDB0002265,NA,"14,15-DiHETrE",Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0002274,NA,Methylcobalamin,Organoheterocyclic compounds,Tetrapyrroles and derivatives,Corrinoids,Aromatic heteropolycyclic compounds
+HMDB0002283,NA,"14R,15S-EpETrE",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic heteromonocyclic compounds
+HMDB0002290,NA,Arsenic,Homogeneous metal compounds,Homogeneous metalloid compounds,NA,NA
+HMDB0002303,DMS,Dimethylsulfide,Organosulfur compounds,Thioethers,Dialkylthioethers,Aliphatic acyclic compounds
+HMDB0002311,NA,"8,9-DiHETrE",Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0002314,NA,"11,12-DiHETrE",Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0002386,NA,Boron,Homogeneous metal compounds,Homogeneous metalloid compounds,NA,NA
+HMDB0002387,NA,Beryllium,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds,NA,NA
+HMDB0002457,NI2,Nickel,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0002500,NA,Bromide,Homogeneous non-metal compounds,Homogeneous halogens,NA,NA
+HMDB0002503,NA,Vanadium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0002659,NA,Silver,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0002666,THMMP,Thiamine monophosphate,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aromatic heteromonocyclic compounds
+HMDB0002712,NA,"1,5-Anhydrosorbitol",Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic heteromonocyclic compounds
+HMDB0002786,NO2,Nitrite,Homogeneous non-metal compounds,Non-metal oxoanionic compounds,Non-metal nitrites,NA
+HMDB0002820,3MLDA,Methylimidazoleacetic acid,Organoheterocyclic compounds,Azoles,Imidazoles,Aromatic heteromonocyclic compounds
+HMDB0002825,NA,Theobromine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Aromatic heteropolycyclic compounds
+HMDB0002865,M02669,Oxytocin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic heteromonocyclic compounds
+HMDB0002878,NO3,Nitrate,Homogeneous non-metal compounds,Non-metal oxoanionic compounds,Non-metal nitrates,NA
+HMDB0002886,CE0955,6-Keto-prostaglandin F1a,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic homomonocyclic compounds
+HMDB0002917,XYLT,D-Xylitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0002961,5ADTSTSTERONE,Dihydrotestosterone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,Aliphatic homopolycyclic compounds
+HMDB0002994,NA,Erythritol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0003080,LEUKTRD4,Leukotriene D4,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0003157,NA,Guanidinosuccinic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0003208,NA,Thromboxane,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic heteromonocyclic compounds
+HMDB0003229,HDCEA,Palmitoleic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0003252,HC02180,Thromboxane B2,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic heteromonocyclic compounds
+HMDB0003332,NA,3-Methoxy-4-Hydroxyphenylglycol sulfate,Benzenoids,Phenols,Methoxyphenols,Aromatic homomonocyclic compounds
+HMDB0003337,GTHOX,Oxidized glutathione,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0003366,PPAL,Propanal,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aliphatic acyclic compounds
+HMDB0003378,NA,Nitric oxide,Homogeneous non-metal compounds,Other non-metal organides,Other non-metal oxides,NA
+HMDB0003379,PPPI,Triphosphate,Homogeneous non-metal compounds,Non-metal oxoanionic compounds,Non-metal phosphates,NA
+HMDB0003464,4GUBUT,4-Guanidinobutanoic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0003625,NA,Mercury,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0003626,NA,(R)-N-Methylsalsolinol,Organoheterocyclic compounds,Tetrahydroisoquinolines,NA,Aromatic heteropolycyclic compounds
+HMDB0003638,CD2,Cadmium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0003642,NA,Strontium,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds,NA,NA
+HMDB0003671,NA,2-Heptanone,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aliphatic acyclic compounds
+HMDB0003869,NA,epsilon-(gamma-Glutamyl)lysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0003876,NA,15-HETE,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0003892,CE4890,(S)-N-Methylsalsolinol,Organoheterocyclic compounds,Tetrahydroisoquinolines,NA,Aromatic heteropolycyclic compounds
+HMDB0003933,NA,Pentosidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic heteropolycyclic compounds
+HMDB0004063,MEPI,Metanephrine,Benzenoids,Phenols,Methoxyphenols,Aromatic homomonocyclic compounds
+HMDB0004080,C11695,Anandamide,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0004085,NA,Tuberculostearic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0004087,NA,"1-Benzyl-1,2,3,4-tetrahydroisoquinoline",Organoheterocyclic compounds,Isoquinolines and derivatives,Benzylisoquinolines,Aromatic heteropolycyclic compounds
+HMDB0004118,NA,Antimony,Homogeneous metal compounds,Homogeneous metalloid compounds,NA,NA
+HMDB0004136,NA,D-Threitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aliphatic acyclic compounds
+HMDB0004138,NA,Gold,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0004142,NA,Barium,Homogeneous metal compounds,Homogeneous alkaline earth metal compounds,NA,NA
+HMDB0004143,NA,Tantalum,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0004207,NA,Glutamyllysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0004225,5G2OXPT,2-Oxoarginine,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds
+HMDB0004236,HC02205,Prostaglandin B2,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic homomonocyclic compounds
+HMDB0004259,FNA5MOXAM,Acetyl-N-formyl-5-methoxykynurenamine,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aromatic homomonocyclic compounds
+HMDB0004264,C14771,"14,15-Epoxy-5,8,11-eicosatrienoic acid",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic heteromonocyclic compounds
+HMDB0004362,CE2006,4-Hydroxynonenal,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,Aliphatic acyclic compounds
+HMDB0004620,NA,N-a-Acetyl-L-arginine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0004628,M02749,Lead,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aliphatic acyclic compounds
+HMDB0004645,NA,S-Nitrosoglutathione,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0004659,NA,8-Isoprostane,Hydrocarbons,Saturated hydrocarbons,Cycloalkanes,Aliphatic homomonocyclic compounds
+HMDB0004666,C13856,"MG(0:0/20:4(5Z,8Z,11Z,14Z)/0:0)",Lipids and lipid-like molecules,Endocannabinoids,NA,Aliphatic acyclic compounds
+HMDB0004667,M00336,13-HODE,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Aliphatic acyclic compounds
+HMDB0004669,NA,9-OxoODE,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Aliphatic acyclic compounds
+HMDB0004670,NA,alpha-Dimorphecolic acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Aliphatic acyclic compounds
+HMDB0004673,C14770,"11,12-Epoxyeicosatrienoic acid",Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic heteromonocyclic compounds
+HMDB0004679,NA,8-HETE,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0004682,NA,11(R)-HETE,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0004701,C14825,"9,10-Epoxyoctadecenoic acid",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic heteromonocyclic compounds
+HMDB0004702,C14826,"12,13-EpOME",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic heteromonocyclic compounds
+HMDB0004704,CE2047,"9,10-DHOME",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0004705,CE2049,"12,13-DHOME",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0004710,NA,"9,10,13-TriHOME",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0004983,NA,Dimethyl sulfone,Organosulfur compounds,Sulfonyls,Sulfones,Aliphatic acyclic compounds
+HMDB0004988,NA,Pi-Methylimidazoleacetic acid,Organoheterocyclic compounds,Azoles,Imidazoles,Aromatic heteromonocyclic compounds
+HMDB0005021,NA,Quetiapine,Organoheterocyclic compounds,Benzothiazepines,Dibenzothiazepines,Aromatic heteropolycyclic compounds
+HMDB0005199,C09642,(R)-Salsolinol,Organoheterocyclic compounds,Tetrahydroisoquinolines,NA,Aromatic heteropolycyclic compounds
+HMDB0005768,NA,Kyotorphin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic homomonocyclic compounds
+HMDB0005949,M02382,Lithium,Homogeneous metal compounds,Homogeneous alkali metal compounds,NA,NA
+HMDB0005994,HXAL,Hexanal,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aliphatic acyclic compounds
+HMDB0005998,WHARACHD,20-Hydroxyeicosatetraenoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0006059,LEUKTRB4WCOOH,20-Carboxy-leukotriene B4,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0006088,NA,scyllo-Inositol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Aliphatic homomonocyclic compounds
+HMDB0006111,12HARACHD,12-HETE,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0006112,CE0737,Malondialdehyde,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aliphatic acyclic compounds
+HMDB0006119,NA,7beta-Hydroxycholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,Aliphatic homopolycyclic compounds
+HMDB0006478,NA,Isovaleraldehyde,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aliphatic acyclic compounds
+HMDB0006483,NA,D-Aspartic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0006695,NA,Prolylhydroxyproline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic heteromonocyclic compounds
+HMDB0006730,NA,QYNAD,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aromatic homomonocyclic compounds
+HMDB0010169,NA,SM(d18:1/16:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0010210,M00393,15-KETE,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Aliphatic acyclic compounds
+HMDB0010222,NA,9-HETE,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0010384,PCHOLSTE_HS,LysoPC(18:0/0:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Aliphatic acyclic compounds
+HMDB0010395,NA,"LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)",Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Aliphatic acyclic compounds
+HMDB0010396,PCHOLN204_HS,"LysoPC(20:4(8Z,11Z,14Z,17Z)/0:0)",Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Aliphatic acyclic compounds
+HMDB0011134,C04805,5-HETE,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Aliphatic acyclic compounds
+HMDB0011620,ASO3,Arsenite,Mixed metal/non-metal compounds,Miscellaneous mixed metal/non-metals,Miscellaneous metallic oxoanionic compounds,NA
+HMDB0011697,NA,SM(d18:1/24:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0011698,NA,SM(d18:1/26:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0011738,NA,N2-gamma-Glutamylglutamine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0012100,NA,SM(d18:1/18:1(11Z)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0012101,NA,SM(d18:1/18:1(9Z)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0012107,NA,SM(d18:1/24:1(15Z)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0012895,NA,Arginine vasopressin 1-8,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl thioesters,Aromatic heteropolycyclic compounds
+HMDB0012935,NA,Dynorphin A,Organic Polymers,Polypeptides,NA,Aromatic heteromonocyclic compounds
+HMDB0013072,NA,Somatostatin,Organic Polymers,Polypeptides,NA,Aromatic heteropolycyclic compounds
+HMDB0013122,NA,LysoPC(P-18:0/0:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Aliphatic acyclic compounds
+HMDB0013125,NA,Hydroxypropionylcarnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Aliphatic acyclic compounds
+HMDB0013128,NA,Valerylcarnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Aliphatic acyclic compounds
+HMDB0013461,NA,SM(d18:1/26:1(17Z)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013462,NA,SM(d18:0/14:1(9Z)(OH)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013463,NA,SM(d18:0/16:1(9Z)(OH)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013464,NA,SM(d18:0/16:1(9Z)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013465,NA,"SM(d18:0/20:2(11Z,14Z))",Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013466,NA,SM(d18:0/22:1(13Z)(OH)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013467,NA,"SM(d18:0/22:2(13Z,16Z)(OH))",Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013469,NA,SM(d18:0/24:1(15Z)(OH)),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds
+HMDB0013667,NA,Yttrium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0013668,NA,Ruthenium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0013669,NA,Cesium,Homogeneous metal compounds,Homogeneous alkali metal compounds,NA,NA
+HMDB0013670,NA,Palladium,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0013671,NA,Platinum,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0013672,NA,Cerium,Homogeneous metal compounds,Homogeneous lanthanide compounds,NA,NA
+HMDB0015532,ZN2,Zinc,Homogeneous metal compounds,Homogeneous transition metal compounds,NA,NA
+HMDB0029147,NA,N-gamma-Glutamylglutamine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aliphatic acyclic compounds
+HMDB0059655,M00653,2-Hydroxyglutarate,Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,Aliphatic acyclic compounds
