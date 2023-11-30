@@ -67,18 +67,3 @@ dev.off()
 png(filename="Figs/TCGA_PC2_PC3.png", units="in", width=10, height=10, res=300)
 fviz_pca_ind(PC, axes=c(2,3), col.ind = tcga_meta$TYPE, pointshape = 20, pointsize = 2, geom =  c("point"), addEllipses = TRUE, ellipse.type = "confidence",  ellipse.level=0.95, title='Title')
 dev.off()
-
-# Gene feature importance of PC1 vs PC2
-PC.desc <- dimdesc(PC, axes = c(1,2))
-PCA_loadings = PC.desc[["Dim.1"]][["quanti"]]
-PCA_loadings = PCA_loadings[rowSums(is.na(PCA_loadings)) == 0,]
-
-# select metabolic genes from loading gene
-human1_genes <- read.csv('Human1_genes_ENSG_Symbol.txt',sep='\t')
-is_metabolic <- rep(0, length(PCA_loadings))
-PCA_loadings <- cbind(PCA_loadings,is_metabolic)
-idx <- rownames(PCA_loadings) %in% human1_genes$Gene.Symbol
-PCA_loadings[idx,'is_metabolic'] =1
-write.table(PCA_loadings, 'Figs/TCGA_PCA_Loadings.csv')
-PCA_loadings_met  = PCA_loadings[PCA_loadings[,3]==1,]
-write.table(PCA_loadings_met, 'Figs/TCGA_PCA_Loadings_metabolic.csv')
