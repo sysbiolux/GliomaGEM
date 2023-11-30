@@ -1,6 +1,6 @@
-### GliomaGEM: Glioma metabolic modelling for repurposing of single and combination drugs.###
+# GliomaGEM: Glioma metabolic modelling for repurposing of single and combination drugs.
 
-# Data: expression data for TCGA-GBM and TCGA-LGG from three sources
+* Data: expression data for TCGA-GBM and TCGA-LGG from three sources
 * CRISPR: DepMap 22Q1 CRISPR screen
 * Primary_target_databases: Three drug-target databases (DrugBank,  PROMISCUOUS, Drug Repurposing Hub)
 * Primary_target_databases/Orphandrug_GlialTumor.csv : Investigational anti-glioma drugs downloaded for OrhanDrug
