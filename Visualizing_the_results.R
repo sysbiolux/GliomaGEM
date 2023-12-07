@@ -363,19 +363,7 @@ P1_final
 ggsave(P1_final,filename="Figure/Figure_1_Exchange_Reactions.png", units="in", width=11, height=8.5)
 #ggsave(P1_final,filename="Figure/Figure_1_Exchange_Reactions.pdf", units="in", width=11, height=8.5)
 
-# 
-# fva_literature$Literature2 <- sapply(strsplit(fva_literature$Literature, " "), function(x) {
-#   spacePosition <- cumsum(nchar(x))
-#   placeBreak <- spacePosition[which(diff(spacePosition %/% 30) == 1)] + 1
-#   result <- paste(x, collapse = " ")
-#   for(i in placeBreak) {
-#     substring(result, i, i) <- "\n"
-#   }
-#   result
-# })
-# 
-# ggplot(fva_literature,aes(y=Formula,x=10,label=Literature2))+
-#   geom_label_repel()
+
 # ## FVA for all reactions
 
 fva %>% group_by(Formula) %>% 
@@ -487,35 +475,6 @@ sko_df_longer_delrxn %>% group_by(Drugs,Subtype,TYPE2) %>%
 sko_df_longer <- sko_df_longer_delrxn
 write_csv(sko_df_longer,"./Integrated_Drug_Db/Predicted_drug_targets_filtered.csv")
 
-# ##  Removing targets with OR rule not covered
-# sko_df_longer_rule <- left_join(recon_pathways_rule,sko_df_longer,by=c('SYMBOL'='SYMBOL')) #Rxn'='DelRxns',
-# sko_df_longer_rule <- distinct(sko_df_longer_rule[! is.na(sko_df_longer_rule$TYPE2),])
-# sko_df_longer_rule$OR_genes <- sko_df_longer_rule$Rule
-# sko_df_longer_rule %>% separate_rows(OR_genes,sep=' | ')%>%distinct()->sko_df_longer_rule
-# sko_df_longer_rule$OR_genes <- str_replace_all(sko_df_longer_rule$OR_genes,'[(|)]','')
-# sko_df_longer_rule <- sko_df_longer_rule[!(sko_df_longer_rule$OR_genes %in% c("","&","|")),]
-# 
-# sko_df_longer_not_targeted <- sko_df_longer_rule %>% group_by(Drugs,Subtype,Rule) %>%
-#   summarise(x = setdiff(OR_genes,SYMBOL),
-#             Rule_targeted =   if_else(n_distinct(x)>0 ,'Yes','No')) 
-#   
-# #sko_df_longer_not_targeted <-  unique(sko_df_longer_rule[sko_df_longer_rule$OR_genes!= sko_df_longer_rule$SYMBOL,
-# #                                                         c("Drugs","Subtype","Rule")])
-# sko_df_longer_not_targeted <-  unique(sko_df_longer_not_targeted[, c("Drugs","Subtype","Rule")])
-#                                                         
-# sko_df_longer_not_targeted$Rule_targeted <- "No"
-# sko_df_longer_targeted <- left_join(sko_df_longer_rule,sko_df_longer_not_targeted)
-# #sko_df_longer_targeted <-  sko_df_longer_rule[!sko_df_longer_rule$Rule %in% sko_df_longer_not_targeted$Rule,]
-# sko_df_longer_targeted <- sko_df_longer_targeted[is.na(sko_df_longer_targeted$Rule_targeted),]
-# sko_df_longer <- distinct(sko_df_longer_targeted[,c('Drugs','Subtype','TYPE2','SYMBOL','DelRxns')])
-# 
-# ### Merge by rxn and gene 
-# sko_df_longer %>% separate_rows(DelRxns,sep='; ')%>%distinct() -> sko_df_longer
-# sko_df_longer
-# sko_df_longer <- left_join(recon_pathways_longer,sko_df_longer,by=c('SYMBOL'='SYMBOL')) #Rxn'='DelRxns',
-# sko_df_longer <- distinct(sko_df_longer[! is.na(sko_df_longer$TYPE2),])
-
-
 ####
 genes_literature <- read_excel('./Supplementary File 2.xlsx',sheet = "Table_S11_Essential_Genes")
 
@@ -611,19 +570,6 @@ sko_df_genes_ <- unique(sko_df_genes[sko_df_genes$TYPE2!='Double Drug Deletion',
                                                                                    "Predicted_Essential",
                                                                                    'Drug_rank','Drugs_one_ch')])
 # # Make font map for the essential genes
-# bold_map <- sko_df_genes_[,]  |> 
-#   group_by(SYMBOL_,Predicted_Essential)|>
-#   mutate(n_drugs=n_distinct(Drugs)) |>
-#   select(SYMBOL_,Predicted_Essential,n_drugs)|>
-#   distinct() |>
-#   dplyr::arrange(desc(n_drugs))
-# bold_map$Predicted_Essential <- factor(bold_map$Predicted_Essential,c('Essential drug targets','Non-essential drug targets'))
-# 
-# #bold_map <- unique(bold_map[,c("SYMBOL_","n_drugs","Predicted_Essential")])
-# bold_map$FACE <- ""
-# bold_map$FACE[bold_map$Predicted_Essential=='Essential drug targets'] <- "bold"
-# bold_map$FACE[bold_map$Predicted_Essential=='Non-essential drug targets'] <- "plain"
-# bold_map$FACE <- factor(bold_map$FACE,c('bold','plain'))
 n_distinct(sko_df_genes_$SYMBOL_)
 unique(sko_df_genes_$SYMBOL_)
 unique(sko_df_genes$SYMBOL[sko_df_genes$TYPE2 =="Single Drug Deletion"])
@@ -641,28 +587,7 @@ n_essential <- n_distinct(sko_df_genes_$SYMBOL_[sko_df_genes_$Predicted_Essentia
 bold_map$FACE[1:n_essential] <- "bold"
 bold_map$FACE <- factor(bold_map$FACE,c('bold','plain'))
 # 
-# # Make font map for the essential genes
-# sko_df_genes_bold <- unique(sko_df_genes_[,c("SYMBOL_","n_drugs","Predicted_Essential")])
-# sko_df_genes_bold$Predicted_Essential <- factor(sko_df_genes_bold$Predicted_Essential,
-#                                                 c('Essential drug targets','Non-essential drug targets'))
-# sko_df_genes_bold <- sko_df_genes_bold[,]  |> 
-#   group_by(SYMBOL_) |>
-#   mutate(n_drugs=max(n_drugs)) |>
-#   select(SYMBOL_,n_drugs,Predicted_Essential)|>
-#   distinct()# |>
-# #fct_reorder2(SYMBOL_,Predicted_Essential,desc(n_drugs))
-# 
-# sko_df_genes_bold$Essential <-1
-# sko_df_genes_bold$Essential[sko_df_genes_bold$Predicted_Essential=='Non-essential drug targets'] <-0
-# 
-# fct_reorder2(sko_df_genes_bold$SYMBOL_,sko_df_genes_bold$n_drugs,sko_df_genes_bold$Essential,.desc = T)
-# 
-# 
-# sko_df_genes_bold <- sko_df_genes_bold[fct_reorder2(,n_drugs),]
-# sko_df_genes_bold$FACE <- ""
-# sko_df_genes_bold$FACE[sko_df_genes_bold$Predicted_Essential=='Yes'] <- "bold"
-# sko_df_genes_bold$FACE[sko_df_genes_bold$Predicted_Essential=='No'] <- "plain"
-# 
+
 sko_df_genes_$Subtype_ <-str_c("i",sko_df_genes_$Subtype)
 sko_df_genes_$Subtype_ <- factor(sko_df_genes_$Subtype_,c("iGBM","iAST","iODG"))
 
@@ -706,21 +631,7 @@ legend_text_colors["ASC"] <- "red"
 legend_text_colors["ASC2"] <- "blue"
 
 drugs <-  unique(sko_df_genes_$Drugs)
-# legend_text_colors <- data.frame(drugs,fill)
-# legend_text_colors <- lapply(1:nrow(legend_text_colors), function(i) {
-#   row_dict <- as.list(df[i, ])
-#   names(row_dict) <- colnames(df)
-#   row_dict
-# })
-# 
-# colnames(legend_text_colors) <-
-# legend_text_colors <- as.list(legend_text_colors)
-# legend_text_colors[1]
-# legend_text_colors <- list(
-#   "A" = "purple",
-#   "B" = "orange",
-#   "C" = "darkblue"
-# )
+
 
 #P2_2 + theme(legend.text=element_markdown(color=legend_text_colors))
 
@@ -772,63 +683,7 @@ P3_2 <- ggplot(sko_df_genes_2,
   theme(legend.position = c(0.2,0.5))
 P3_2
 
-# 
-# P3_2 <- ggplot(sko_df_genes_,
-#                aes(y=reorder(fct_reorder(SYMBOL_,Drugs),n_drugs),x=fct_reorder(Drugs,SYMBOL_),
-#                    group=Drugs,fill=Subtype))+
-#   geom_tile(alpha=0.7,position = position_jitterdodge(reverse = F,preserve = "total")) +
-#   #geom_text(aes(label=Drugs_one_ch))+
-#   #facet_grid(.~Subtype,scales = 'free')+
-#   ggtitle("B") +#  #ggtitle("Predicted drug targets") +# 
-#   ylab("Targets")+xlab("")+#Number of drugs per gene
-#   scale_fill_manual(values = c('#BB173A','#2F6790','forestgreen'))+#,'green4'))+
-#   theme_classic() +
-#   #scale_fill_manual(values=mycols)+
-#   theme(axis.text.x = element_text(angle = 90,size = 11),
-#         axis.text.y = element_text(angle = 0,size = 12) )+
-#   coord_flip()
-# #theme(legend.position = c(0.7,0.5),legend.background = element_blank(),legend.key = element_blank())
-# 
-# #guides(fill="none")
-# P3_2 
 
-#P2+ P2_2 + plot_layout(guides = "collect",ncol = 2,)
-# v1 <- c('Date', 'vix1', 'vix2', 'vix3', 'doSG124', 'doSG220','vix56')
-# v1 <- c("CA8","CA8A","CA7")
-# v1 <- c("BRCA","BRCB","CA7")
-# 
-# tbl <- table(sub('\\d+$', '', v1))
-# names(which.max(tbl))
-# #sko_df_genes$SYMBOL_[sko_df_genes$SYMBOL=='ACAT1'] <- 'ACAT1'
-# 
-# P3_2 <- ggplot(sko_df_genes[sko_df_genes$TYPE2=='Double Drug Deletion', ],
-#                aes(x=reorder(fct_reorder(SYMBOL_,Drugs),n_drugs),y=fct_reorder(Drugs,SYMBOL_),
-#                    group=Drugs,fill=Subtype))+
-#   geom_tile(alpha=1,stat = 'identity') +
-#   #geom_text(aes(label=Drugs_one_ch))+
-#   facet_grid(.~Subtype,scales = 'free')+
-#   ggtitle("B") +#  #ggtitle("Predicted drug targets") +#
-#   xlab("Targets")+ylab("")+#Number of drugs per gene
-#   scale_fill_manual(values = c('#BB173A','#2F6790','forestgreen'))+#,'green4'))+
-#   theme_classic() +
-#   #scale_fill_manual(values=mycols)+
-#   theme(axis.text.x = element_text(angle = 90,size = 11),
-#         axis.text.y = element_text(angle = 0,size = 12) )+
-#   guides(fill="none")  #guide_legend(title="Drugs",ncol = 1
-# P3_2
-
-# P2_final <-P2 + #xlim(0, 1300) +
-#   geom_text_repel(aes(label=Evidence2),size=3.5,alpha=0.9,color='black',
-#                   #force        = 4,
-#                   nudge_x      = 3,hjust=0,
-#                   nudge_y      = 0.2,
-#                   direction    = "both",
-#                   #hjust        = 0,
-#                   fontface = 'bold',
-#                   segment.colour = "black",
-#                   box.padding = unit(0.35, "lines"),
-#                   segment.size = 0.2
-#   ) 
 
 ## Essential genes
 
@@ -1226,28 +1081,6 @@ P_sko_lit <- ggplot(vitro[vitro$Prediction=='Single',],
   ggtitle("Efficacy of predicted single drugs in in vitro cell viability assay from literature")
 ggsave(P_sko_lit,filename="Figure/Figure_x_Viability_singleDrugs_Literature.png", units="in", width=9, height=8,dpi=300,)
 
-# vitro_nano <- vitro[vitro$Prediction=='Single' & vitro$Dosage_in_µM<=0.2& vitro$Dosage_in_µM >0,]
-# ggplot(vitro_nano,aes(x=Dosage_in_µM,color=Effect,y=reorder(Drug,desc(median_dosage))))+#fct_reorder2(Drug,desc(median_dosage),desc(n_celllines))))+
-#   geom_point(aes(shape=Cell_Lines,size=Reduction_in_Viability),position = position_dodge(width = 0.5))+
-#   ylab("Drugs") +
-#   xlab("Dosage in µM") +
-#   #facet_wrap(.~Prediction,scales = 'free')+
-#   scale_color_manual(values = c("chartreuse4",'red','darkred'))+
-#   scale_shape_manual(values = seq(1,22,1)) +
-#   scale_size_continuous(range=c(3,5))+
-#   #scale_x_continuous(trans='log10',n.breaks = 10)+
-#   #geom_vline(xintercept=50, linetype="dashed",  color = "red", size=1)+
-#   #geom_vline(xintercept=10, linetype="dashed",  color = "blue", size=1)+
-#   theme_bw()+
-#   theme(axis.text.x = element_text(angle = 0,size = 12),
-#         axis.text.y = element_text(angle = 0,size = 13))+
-#   ggtitle("Efficacy of predicted single drugs in in vitro cell viability assay from literature")
-# 
-# unique(vitro[vitro$Prediction=='Single','Cell_Lines'])
-# #vitro_s <- distinct(vitro[,c('Drug','median_dosage')])
-# #vitro_s <- vitro_s[order(vitro_s$median_dosage),]
-# #write_clip(vitro_s)
-
 ## combination cell lines
 x <- vitro[vitro$Prediction=='Combination',]
 x$median_dosage[x$Effect =='Not tested'] <- 20000
@@ -1376,31 +1209,7 @@ design <- matrix(c(1,1,1,2,2,2,3,4,5), 3, 3)
 P_S_IC50_1 <- P_S_IC50_1 + facet_manual(.~Database,scales = "free", design = design)
 
 P_S_IC50_1
-# P_S_IC50_2 <- ggplot(drugs_ic50[drugs_ic50$Database %in% c("GDSC1000" , "GDSC2000" , "gCSI"),], 
-#                      aes(x=IC50, y=reorder_within(Drugs,desc(Median_IC50_per_database),Database), 
-#                          fill=Prediction,
-#                          #shape=Subtype,
-#                          color=Prediction)) + 
-#   geom_violin(alpha=0.3)+
-#   geom_point(alpha=0.5)+
-#   geom_point(aes(x=Median_IC50_per_database),color='black')+
-#   scale_x_continuous(trans='log10',n.breaks = 10)+
-#   scale_fill_manual(values=c("forestgreen",'#ffa100','steelblue'))+
-#   scale_color_manual(values=c("forestgreen",'#ffa100','steelblue'))+
-#   ylab("") +
-#   facet_wrap(.~Database,scales = "free",ncol = 1)+
-#   scale_y_reordered()+
-#   xlab("") +theme_classic() +
-#   theme(axis.text.x = element_text(angle = 90,size = 10),
-#         axis.text.y = element_text(angle = 0,size = 12))+
-#   geom_vline(xintercept=1, linetype="dashed", color = "blue", size=0.5)+
-#   geom_vline(xintercept=10, linetype="dashed", color = "red", size=0.5)+
-#   ggtitle("") +
-#   guides(fill=guide_legend(title='Drug Type',ncol = 1),color=guide_legend(title='Drug Type',ncol = 1))+
-#   theme(legend.position = "top",legend.background = element_blank(),legend.key = element_blank())
-# 
-# P_S_IC50 <- cowplot::plot_grid(P_S_IC50_1, P_S_IC50_2, ncol = 2,rel_widths = c(6,3))
-# P_S_IC50
+
 #ggsave('Figure/FigureSxx_IC50.pdf', P_S_IC50,units = 'in',width = 10,height = 9,dpi = 300)
 ggsave('Figure/FigureSxx_IC50.png', P_S_IC50_1,units = 'in',width = 11,height = 9,dpi = 300)
 
@@ -2159,63 +1968,6 @@ P6_final <- cowplot::plot_grid(P6_1, P6_2, ncol = 1,rel_heights = c(5,9))
 
 ggsave(P6_final,filename="Figure/Figure_6_trials.png", units="in", width=11, height=11, dpi=300)
 ggsave(P6_final,filename="Figure/Figure_6_trials.pdf", units="in", width=11, height=11, dpi=300)
-
-
-#P_S_Viability_1+  P_S_Viability_2 + plot_layout(ncol = 2,guides = "collect") +scale_size_continuous(trans="log10")#+
-#ggarrange(P_S_Viability_1, P_S_Viability_2, ncol=2, nrow=1, common.legend = TRUE, legend="bottom")
-#plot_grid(P_S_Viability_1,  P_S_Viability_2,)
-#ggsave(P_S_Viability_1,filename="Figure/Figure_S_XX_inVitro_viability.pdf", units="in", width=12, height=11,dpi=300,)
-
-
-# sko_df_ <- distinct(sko_df_longer[,c('Drugs','TYPE2')])
-# sko_df_ <- left_join(sko_df_,xenograft)
-# bell_df <- left_join(sko_df_,Ranking_df_3)
-# 
-# bell_df <- left_join(bell_df,Ranking_df_4[,c('Drugs','Bell_etal_Folllowup')])
-# #bell_df <- left_join(bell_df,xenograft)
-# 
-# bell_df %>% pivot_longer(cols =c("Bell_etal_Initial","Bell_etal_Folllowup","Literature") ,
-#                          names_to = "Source",values_to = "Rank")  -> bell_df
-# 
-# 
-# bell_df %>% group_by(Drugs) %>% mutate(median_rank = median(Rank,na.rm = T)) -> bell_df
-# bell_df[bell_df$Source=='Literature','Rank'] <- 0
-# bell_df[bell_df$Source=='Literature','median_rank'] <- 0
-# bell_df[bell_df$Source!='Literature','Effect'] <- NA
-# bell_df[bell_df$Source!='Literature','Xenograft_or_Animal'] <- NA
-# 
-# 
-# min(bell_df$median_rank)
-# bell_df$median_rank[bell_df$Drugs %in% c("fotemustine","azathioprine",'eflornithine')] <- -1
-# bell_df$median_rank[bell_df$Drugs %in% c("cannabidiol")] <- -0.5
-# bell_df$median_rank[bell_df$Drugs %in% c("topiramate")] <- 150
-# bell_df$median_rank[bell_df$Drugs %in% c("inositol","hydroxyurea",'acetazolamide')] <- 200
-# #bell_df$Effect <- as.character(bell_df$Effect)
-# #bell_df$Effect[is.na(bell_df$median_rank)] <- "Not tested"
-# #bell_df$Rank[is.na(bell_df$median_rank)] <- 0
-# 
-# bell_df$median_rank[is.na(bell_df$median_rank)] <- 300
-# 
-# bell_df$Effect <- factor(bell_df$Effect,c("Reduced tumor growth", "Minimal effect on tumor growth", "Reducing acidosis and hypoxia","No effect on tumor growth/survival",NA   ))
-# 
-# #bell_df$median_rank[bell_df$Effect %in% c("No effect on tumor growth","No effect on survival")] <-"No effect on tumor growth/survival"
-# 
-# colnames(bell_df)
-# colnames(xenograft)
-# ggplot(bell_df,aes(y=fct_reorder(Drugs,desc(median_rank)),x = Rank))+
-#   geom_bar(stat = "identity", position=position_dodge(),aes(fill=Source))+
-#   geom_point(aes(shape=Xenograft_or_Animal,color=Effect,fill=Source),size=3,position = position_dodge(width = 0.8))+
-#   #geom_text(aes(label=Rank),size=3.5)+
-#   ggtitle("Xenograft data for the predicted drugs from literature and drug screening") +
-#   xlab("Rank in nth percentile among all screened drugs") +
-#   ylab("Drugs") +theme_classic() +
-#   facet_wrap(.~TYPE2,scales = 'free')+
-#   scale_color_manual(values = c("chartreuse4", "green3",'deepskyblue4','red','grey'))+
-#   scale_fill_manual(values = c("yellow3","violet","white"))+
-#   guides(color=guide_legend(title="Effect alone in Literature"))+
-#   theme(axis.text.x = element_text(angle = 0,size = 12),
-#         axis.text.y = element_text(angle = 0,size = 12))
-
 
 
 ## Rank essential genes and drug targets by DepMap dependency
@@ -2977,138 +2729,6 @@ dev.off()
 n_distinct(sko_df_genes[sko_df_genes$TYPE2 =="Single Drug Deletion","SYMBOL"])
 
 
-
-
-
-## Testing using super cript for Figure 2.B
-# library(ggtext)
-# x <- unique(sko_df_genes[sko_df_genes$TYPE2=='Single Drug Deletion',
-#                          c("Drugs","Drugs_one_ch")])
-# x$Drugs_one_ch_superscript <- str_c(x$Drugs_one_ch,"<sup>2</sup>")
-# 
-# sko_df_genes_$Drugs_one_ch_superscript <- str_c(sko_df_genes_$Drugs_one_ch,"<sup>2</sup>")
-# 
-# 
-# P2_2_ <- ggplot(sko_df_genes_,#(sko_df_genes[sko_df_genes$TYPE2=='Single Drug Deletion',],
-#                aes(y=reorder(SYMBOL_,n_drugs),x=Drug_rank))+
-#   geom_tile(alpha=0.7,stat = 'identity',aes(fill=Drugs)) +
-#   geom_richtext(aes(label=Drugs_one_ch_superscript,color=Drugs,group=Drugs_one_ch_superscript, size=Predicted_Essential),
-#             position="identity" ,label.size = NA)+ #,size=2.5
-#   facet_grid(Predicted_Essential~Subtype_,scales = 'free')+#, space='free_y')+
-#   
-#   force_panelsizes(rows = c(1.2, 2.9),
-#                    cols = c(1, 1)) +
-#   
-#   ggtitle("B") +#  #ggtitle("Predicted drug targets") +# 
-#   ylab("")+xlab("Number of drugs per gene")+
-#   theme_classic() +
-#   scale_fill_manual(values=mycols)+
-#   scale_color_manual(values=rep("black",33),labels=sort(x$Drugs))+
-#   scale_size_manual(values=c(3.2,2))+
-#   theme(axis.text.x = element_text(angle = 0,size = 12),
-#         axis.text.y = element_text(angle = 0,size = 9) ,
-#         strip.text = element_markdown(size = 14),
-#         legend.text=element_text(size=12),legend.title = element_text(size=13),
-#         axis.title = element_text(size = 12))+
-#   #axis.text.y= element_markdown(size = 8,face =bold_map$FACE )
-#   #axis.text.y = element_text(angle = 0,size = 8,face =bold_map$FACE )
-#   #axis.text.y = element_text(angle = 0, 
-#   #                           color = ifelse(sko_df_genes_$defensive_industries == "N", "red", "black"))
-#   
-#   guides(color=guide_legend(title="Drugs",ncol = 1,keywidth = 0.5),
-#          fill=guide_legend(override.aes = list(label = sort(x$Drugs_one_ch_superscript))),size="none"
-#   ) 
-# P2_2_
-# P2_final <- cowplot::plot_grid(P2, P2_2_, ncol = 2,rel_widths = c(3.3,5.5))
-# P2_final
-# ggsave(P2_final,filename="Figure/Figure_2_Essential_Genes_.png", units="in", width=13, height=14,dpi=300)
-# 
-# ## Testing using stroke for Figure 2.B
-# effective_df_keep$Drugs <- firstup(effective_df_keep$Drugs)
-# sko_df_genes_indication <- left_join(sko_df_genes_,effective_df_keep[,c("Drugs","Indication")])
-# n_distinct(sko_df_genes_indication$Indication)
-#                                                                      
-# P2_2_ <- ggplot(sko_df_genes_indication,#(sko_df_genes[sko_df_genes$TYPE2=='Single Drug Deletion',],
-#                aes(y=reorder(SYMBOL_,n_drugs),x=Drug_rank))+
-#   #geom_tile(alpha=0.7,stat = 'identity',aes(fill=Drugs)) +
-#   geom_point(alpha=0.7,stat = 'identity',size = 6,aes(color=Drugs,shape=Indication)) +
-#   geom_text(aes(label=Drugs_one_ch,group=Drugs_one_ch, size=Predicted_Essential,color=Drugs),position="identity" )+ #,size=2.5
-#   facet_grid(Predicted_Essential~Subtype_,scales = 'free')+#, space='free_y')+
-#   
-#   force_panelsizes(rows = c(1.5, 2.7),
-#                    cols = c(1, 1)) +
-#   
-#   ggtitle("B") +#  #ggtitle("Predicted drug targets") +# 
-#   ylab("")+xlab("Number of drugs per gene")+
-#   theme_classic() +
-#   scale_fill_manual(values=mycols)+
-#   scale_color_manual(values=rep("black",33),labels=sort(x$Drugs))+
-#   scale_size_manual(values=c(4,2.5))+
-#   scale_shape_manual(values=c(0,1,2,21,22,23,24,25))+
-#   theme(axis.text.x = element_text(angle = 0,size = 12),
-#         axis.text.y = element_text(angle = 0,size = 9) ,
-#         strip.text = element_text(size = 14),
-#         legend.text=element_text(size=12),legend.title = element_text(size=13),
-#         axis.title = element_text(size = 12))+
-#   #axis.text.y= element_markdown(size = 8,face =bold_map$FACE )
-#   #axis.text.y = element_text(angle = 0,size = 8,face =bold_map$FACE )
-#   #axis.text.y = element_text(angle = 0, 
-#   #                           color = ifelse(sko_df_genes_$defensive_industries == "N", "red", "black"))
-#   
-#   guides(fill=guide_legend(title="Drugs",ncol = 1,keywidth = 0.5),
-#          color=guide_legend(override.aes = list(label = sort(x$Drugs_one_ch))),size="none"
-#   ) 
-# P2_2_
-# 
-# P2_final <- cowplot::plot_grid(P2, P2_2_, ncol = 2,rel_widths = c(3.3,5.5))
-# P2_final
-# ggsave(P2_final,filename="Figure/Figure_2_Essential_Genes_.png", units="in", width=13, height=14,dpi=300)
-# 
-# 
-# 
-# ### Stroked tile
-# P2_2_ <- ggplot(sko_df_genes_indication,#(sko_df_genes[sko_df_genes$TYPE2=='Single Drug Deletion',],
-#                aes(y=reorder(SYMBOL_,n_drugs),x=Drug_rank))+
-#   geom_tile(alpha=0.7, width=0.95, height=0.95, size=2,stat = 'identity',aes(fill=Drugs,color1=Indication)) +
-#   geom_point(alpha=0.8, size=6,stat = 'identity',aes(shape = Drugs),fill="black") +
-#   
-#   geom_text(aes(label=Drugs_one_ch,group=Drugs,color=Drugs, size=Predicted_Essential,#color=Drugs,
-#                 ),position="identity" )+ #,size=2.5,color="black"
-#   facet_grid(Predicted_Essential~Subtype_,scales = 'free')+#, space='free_y')+
-#   
-#   force_panelsizes(rows = c(1.5, 2.7),
-#                    cols = c(1, 1)) +
-#   
-#   ggtitle("B") +#  #ggtitle("Predicted drug targets") +# 
-#   ylab("")+xlab("Number of drugs per gene")+
-#   theme_classic() +
-#   scale_fill_manual(values=mycols)+
-#   scale_color_manual(aesthetics  ="color1",
-#                       values = c("#F8766D", "#FF61CC", "#CD9600", "#7CAE00", "#C77CFF", "#00BE67" ,"#00BFC4", "#00A9FF"))+
-#   #scale_color_manual(aesthetics ="color2",values =mycols)+
-#   scale_shape_manual(values=seq(1,33),labels=sort(x$Drugs))+
-#   #scale_colour_manual(aesthetics = c("color1", "color2"),
-#   #                   colours = list(c("#F8766D", "#FF61CC", "#CD9600", "#7CAE00", "#C77CFF", "#00BE67" ,"#00BFC4", "#00A9FF"),
-#   #                                  mycols))+
-#   #scale_color_manual(values=rep("black",33),labels=sort(x$Drugs))+
-#   scale_size_manual(values=c(4,2.5))+
-#   theme(axis.text.x = element_text(angle = 0,size = 12),
-#         axis.text.y = element_text(angle = 0,size = 9) ,
-#         strip.text = element_text(size = 14),
-#         legend.text=element_text(size=12),legend.title = element_text(size=13),
-#         axis.title = element_text(size = 12))+
-#   #axis.text.y= element_markdown(size = 8,face =bold_map$FACE )
-#   #axis.text.y = element_text(angle = 0,size = 8,face =bold_map$FACE )
-#   #axis.text.y = element_text(angle = 0, 
-#   #                           color = ifelse(sko_df_genes_$defensive_industries == "N", "red", "black"))
-#   
-#   guides(fill=guide_legend(title="Drugs",ncol = 1,keywidth = 0.5),
-#          shape=guide_legend(override.aes = list(label = sort(x$Drugs_one_ch),title="Drugs",color="black")),
-#          size="none"
-#   ) 
-# P2_2_
-
-
 library(ggnewscale)
 effective_df_keep$Drugs <- firstup(effective_df_keep$Drugs)
 sko_df_genes_indication <- left_join(sko_df_genes_,effective_df_keep[,c("Drugs","Indication")])
@@ -3164,6 +2784,3 @@ P2_2 <- ggplot(sko_df_genes_indication,#(sko_df_genes[sko_df_genes$TYPE2=='Singl
 P2_final <- cowplot::plot_grid(P2, P2_2, ncol = 2,rel_widths = c(3.3,5.2))
 P2_final
 ggsave(P2_final,filename="Figure/Figure_2_Essential_Genes_2.png", units="in", width=12.5, height=12.5,dpi=300)
-
-### Model deleted reactions and rea
-sko_delrxn <- read_csv("./Integrated_Drug_Db/SKO_Drugs_Del_Rxns.csv")
