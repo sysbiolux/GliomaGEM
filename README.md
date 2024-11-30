@@ -1,5 +1,7 @@
 # GliomaGEM: Glioma metabolic modelling for repurposing of single and combination drugs.
 
+## Refereence: Ali Kishk, Maria Pires Pacheco, Tony Heurtaux, Thomas Sauter, Metabolic models predict fotemustine and the combination of eflornithine/rifamycin and adapalene/cannabidiol for the treatment of gliomas, Briefings in Bioinformatics, Volume 25, Issue 3, May 2024, bbae199, https://doi.org/10.1093/bib/bbae199
+
 * Data: expression data for TCGA-GBM and TCGA-LGG from three sources
 * CRISPR: DepMap 22Q1 CRISPR screen
 * Primary_target_databases: Three drug-target databases (DrugBank,  PROMISCUOUS, Drug Repurposing Hub)
